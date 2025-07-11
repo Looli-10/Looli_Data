@@ -206,5 +206,65 @@
         "theme": "Love"
       }
     ]
+  },
+  {
+    "title": "Nanban",
+    "image": "https://th.bing.com/th/id/R.298bf787d7dbde83eb4dab40c6b148b3?rik=%2bAh1AK5EPbiAbQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-xzzpRk6D7pM%2fTv3Ompxpl5I%2fAAAAAAAACRQ%2fdQlyoxixsU4%2fs1600%2fnanban-movie-new-posters-wallpapers-1.jpg&ehk=s%2brHFjQuabI6hglJQOGVNYGiloa4xp3eyRFzRHDzLfE%3d&risl=&pid=ImgRaw&r=0",
+    "songs":[
+      {
+        "id": "song_0022",
+        "title": "Asku Laska",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Nanban/Asku-Laska-MassTamilan.fm.mp3",
+        "image": "https://th.bing.com/th/id/R.298bf787d7dbde83eb4dab40c6b148b3?rik=%2bAh1AK5EPbiAbQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-xzzpRk6D7pM%2fTv3Ompxpl5I%2fAAAAAAAACRQ%2fdQlyoxixsU4%2fs1600%2fnanban-movie-new-posters-wallpapers-1.jpg&ehk=s%2brHFjQuabI6hglJQOGVNYGiloa4xp3eyRFzRHDzLfE%3d&risl=&pid=ImgRaw&r=0",
+        "artist": "Harris Jayaraj,Vijay Prakash, Chinmayi Sripada, SuVi, Vijay",
+        "album": "Nanban",
+        "theme": "Love"
+      },
+      {
+        "id": "song_0023",
+        "title": "En Frienda Pola",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Nanban/En-Frienda-Pola-MassTamilan.fm.mp3",
+        "image": "https://th.bing.com/th/id/R.298bf787d7dbde83eb4dab40c6b148b3?rik=%2bAh1AK5EPbiAbQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-xzzpRk6D7pM%2fTv3Ompxpl5I%2fAAAAAAAACRQ%2fdQlyoxixsU4%2fs1600%2fnanban-movie-new-posters-wallpapers-1.jpg&ehk=s%2brHFjQuabI6hglJQOGVNYGiloa4xp3eyRFzRHDzLfE%3d&risl=&pid=ImgRaw&r=0",
+        "artist": "Harris Jayaraj, Krish, Suchith Suresan",
+        "album": "Nanban",
+        "theme": "Friendship"
+      },
+      {
+        "id": "song_0024",
+        "title": "Heartiley Battery",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Nanban/Heartiley-Battery-MassTamilan.fm.mp3",
+        "image": "https://th.bing.com/th/id/R.298bf787d7dbde83eb4dab40c6b148b3?rik=%2bAh1AK5EPbiAbQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-xzzpRk6D7pM%2fTv3Ompxpl5I%2fAAAAAAAACRQ%2fdQlyoxixsU4%2fs1600%2fnanban-movie-new-posters-wallpapers-1.jpg&ehk=s%2brHFjQuabI6hglJQOGVNYGiloa4xp3eyRFzRHDzLfE%3d&risl=&pid=ImgRaw&r=0",
+        "artist": "Harris Jayaraj, Vedala Hemachandra, Mukesh",
+        "album": "Nanban",
+        "theme": "Boost"
+      },
+      {
+        "id": "song_0025",
+        "title":"Irukkana Idupu Irukkana",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Nanban/Irukkana-Idupu-Irukkana-MassTamilan.fm.mp3",
+        "image": "https://th.bing.com/th/id/R.298bf787d7dbde83eb4dab40c6b148b3?rik=%2bAh1AK5EPbiAbQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-xzzpRk6D7pM%2fTv3Ompxpl5I%2fAAAAAAAACRQ%2fdQlyoxixsU4%2fs1600%2fnanban-movie-new-posters-wallpapers-1.jpg&ehk=s%2brHFjQuabI6hglJQOGVNYGiloa4xp3eyRFzRHDzLfE%3d&risl=&pid=ImgRaw&r=0",
+        "artist": "Harris Jayaraj, Vijay Prakash, Javed Ali, Sunidhi",
+        "album": "Nanban",
+        "theme": "Item"
+      },
+      {
+        "id": "song_0026",
+        "title": "Nalla Nanban",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Nanban/Nalla-Nanban-MassTamilan.fm.mp3",
+        "image": "https://th.bing.com/th/id/R.298bf787d7dbde83eb4dab40c6b148b3?rik=%2bAh1AK5EPbiAbQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-xzzpRk6D7pM%2fTv3Ompxpl5I%2fAAAAAAAACRQ%2fdQlyoxixsU4%2fs1600%2fnanban-movie-new-posters-wallpapers-1.jpg&ehk=s%2brHFjQuabI6hglJQOGVNYGiloa4xp3eyRFzRHDzLfE%3d&risl=&pid=ImgRaw&r=0",
+        "artist": "Harris Jayaraj, Ramakrishnan Murthy",
+        "album": "Nanban",
+        "theme": "Friendship"
+      },
+      {
+        "id": "song_0027",
+        "title": "Yendhan Kan Munne",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Nanban/Yendhan-Kan-Munne-MassTamilan.fm.mp3",
+        "image": "https://th.bing.com/th/id/R.298bf787d7dbde83eb4dab40c6b148b3?rik=%2bAh1AK5EPbiAbQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-xzzpRk6D7pM%2fTv3Ompxpl5I%2fAAAAAAAACRQ%2fdQlyoxixsU4%2fs1600%2fnanban-movie-new-posters-wallpapers-1.jpg&ehk=s%2brHFjQuabI6hglJQOGVNYGiloa4xp3eyRFzRHDzLfE%3d&risl=&pid=ImgRaw&r=0",
+        "artist": "Harris Jayaraj, Aalaap Raju",
+        "album": "Nanban",
+        "theme": "Sad"
+      }
+    ]
   }
 ]
