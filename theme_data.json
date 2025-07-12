@@ -1,13 +1,11 @@
-[
-  {
-    "love": "https://images.contentstack.io/v3/assets/bltcedd8dbd5891265b/blt6ed24e73d102e872/6656427cd9591444ec648973/best-love-songs-hero.jpg",
-    "sad": "https://tse1.mm.bing.net/th/id/OIP.CQsZOja-gwBz842fuHRdoQHaFj",
-    "boost": "https://i.pinimg.com/originals/47/12/76/47127628335ec11fad9b8e211aae9f5f.jpg",
-    "english": "https://play-lh.googleusercontent.com/X62oR-e86IlOrdgm2iNUUYKCYdIWBm9NBODvxYoL-CAINlyMyiA7ccxsVYIC2LsPZ68",
-    "item": "https://f4.bcbits.com/img/a2097779585_9.jpg",
-    "breakup": "https://tse2.mm.bing.net/th/id/OIP.8o9AcI8sIh09ewa-8TfU-gHaHa",
-    "vibe": "https://tse1.mm.bing.net/th/id/OIP.NvUysmlLvMFuemSJifsE7QHaE8",
-    "friendship": "https://img.freepik.com/free-photo/group-people-cheering-arms-raised-joy-generated-by-ai_188544-39282.jpg?semt=ais_hybrid&w=740",
-    "default": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg"
-  }
-]
+{
+  "love": "https://images.contentstack.io/v3/assets/bltcedd8dbd5891265b/blt6ed24e73d102e872/6656427cd9591444ec648973/best-love-songs-hero.jpg",
+  "sad": "https://tse1.mm.bing.net/th/id/OIP.CQsZOja-gwBz842fuHRdoQHaFj",
+  "boost": "https://i.pinimg.com/originals/47/12/76/47127628335ec11fad9b8e211aae9f5f.jpg",
+  "english": "https://play-lh.googleusercontent.com/X62oR-e86IlOrdgm2iNUUYKCYdIWBm9NBODvxYoL-CAINlyMyiA7ccxsVYIC2LsPZ68",
+  "item": "https://f4.bcbits.com/img/a2097779585_9.jpg",
+  "breakup": "https://tse2.mm.bing.net/th/id/OIP.8o9AcI8sIh09ewa-8TfU-gHaHa",
+  "vibe": "https://tse1.mm.bing.net/th/id/OIP.NvUysmlLvMFuemSJifsE7QHaE8",
+  "friendship": "https://img.freepik.com/free-photo/group-people-cheering-arms-raised-joy-generated-by-ai_188544-39282.jpg?semt=ais_hybrid&w=740",
+  "default": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg"
+}
