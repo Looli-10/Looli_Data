@@ -293,5 +293,81 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title": "Engeyum Kadhal",
+    "image":"https://i.scdn.co/image/ab67616d0000b2733400267d036e5577446bdaf6",
+    "songs":[
+      {
+        "id": "song_0028",
+        "title": "Bathing At Cannes",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Engeyum-Kadhal-320kbps-MassTamilan.com/Bathing-At-Cannes.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733400267d036e5577446bdaf6",
+        "artist": "Harris Jayaraj, Kash Emcee Jesz, Kash, Krissy & Ranina Reddy",
+        "album": "Engeyum Kadhal",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0029",
+        "title" :"Dhimu Dhimu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Engeyum-Kadhal-320kbps-MassTamilan.com/Dhimu-Dhimu.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733400267d036e5577446bdaf6",
+        "artist": "Harris Jayaraj, Karthik",
+        "album": "Engeyum Kadhal", 
+        "theme": "Breakup",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0030",
+        "title":"Engeyum Kaadhal",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Engeyum-Kadhal-320kbps-MassTamilan.com/Engeyum-Kaadhal.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733400267d036e5577446bdaf6",
+        "artist": "Harris Jayaraj,Aalaap Rajun",
+        "album": "Engeyum Kadhal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0031",
+        "title": "Lolita",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Engeyum-Kadhal-320kbps-MassTamilan.com/Lolita.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733400267d036e5577446bdaf6",
+        "artist": "Harris Jayaraj, Karthik & Prashanthini",
+        "album": "Engeyum Kadhal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0032",
+        "title": "Nangaai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Engeyum-Kadhal-320kbps-MassTamilan.com/Nangaai.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733400267d036e5577446bdaf6",
+        "artist": "Harris Jayaraj, Richard",
+        "album": "Engeyum Kadhal",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0033",
+        "title": "Nenjil Nenjil",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Engeyum-Kadhal-320kbps-MassTamilan.com/Nenjil-Nenjil.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733400267d036e5577446bdaf6",
+        "artist": "Harris Jayaraj, Harish Raghavendra & Chinmayi",
+        "album": "Engeyum Kadhal",
+        "theme": "Sad",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0034", 
+        "title": "Thee Illai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Engeyum-Kadhal-320kbps-MassTamilan.com/Thee-Illai.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733400267d036e5577446bdaf6",
+        "artist": "Harris Jayaraj, Naresh Iyer, Mukesh Gopa Rao, Mahathi & Ranina Reddy",
+        "album": "Engeyum Kadhal",
+        "theme": "Love",
+        "language": "Tamil"
+      }
+    ]
   }
 ]
