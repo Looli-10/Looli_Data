@@ -444,5 +444,71 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title":"Aaytha Ezhuthu",
+    "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
+    "songs":[
+      {
+        "id": "song_0042",
+        "title":" Dol Dol",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aaytha-Ezhuthu-320kbps-MassTamilan.com/Dol-Dol.mp3",
+        "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
+        "artist": "A.R. Rahman, Blaaze, Shahin Bada",
+        "album": "Aaytha Ezhuthu",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0043",
+        "title": "Hey Goodbye Nanba",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aaytha-Ezhuthu-320kbps-MassTamilan.com/Hey-Goodbye-Nanba.mp3",
+        "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
+        "artist": "A.R. Rahman,Sunitha Sarathy, Shankar Mahadevan, Lucky Ali, Karthik",
+        "album": "Aaytha Ezhuthu",
+        "theme": "Friendship",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0044",
+        "title": "Jana Gana Mana",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aaytha-Ezhuthu-320kbps-MassTamilan.com/Jana-Gana-Mana.mp3",
+        "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
+        "artist": "A.R. Rahman, Karthik",
+        "album": "Aaytha Ezhuthu",
+        "theme": "Boost",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0045",
+        "title": "Nenjam Ellam Kadhal",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aaytha-Ezhuthu-320kbps-MassTamilan.com/Nenjam-Ellam-Kadhal.mp3",
+        "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
+        "artist": "A.R. Rahman, Adnan Sami, Sujatha",
+        "album": "Aaytha Ezhuthu",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0046",
+        "title": " Sanda Kozhi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aaytha-Ezhuthu-320kbps-MassTamilan.com/Sanda-Kozhi.mp3",
+        "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
+        "artist": "A.R. Rahman, Madhushree, A.R.Rahman",
+        "album": "Aaytha Ezhuthu",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0047",
+        "title":"Yakkai Thiri",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aaytha-Ezhuthu-320kbps-MassTamilan.com/Yakkai-Thiri.mp3",
+        "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
+        "artist": "A.R. Rahman, Blaaze, Shahin Bada",
+        "album": "Aaytha Ezhuthu",
+        "theme": "Vibe",
+        "language": "Tamil"
+      }
+    ]
   }
 ]
