@@ -369,5 +369,81 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title": "Aadukalam",
+    "image":"https://upload.wikimedia.org/wikipedia/en/c/c0/Aadukalam_%28soundtrack%29.jpeg",
+    "songs":[
+      {
+        "id": "song_0035",
+        "title": "A Love Blossoms (Instrumental)",
+        "url": "https://github.com/Looli-10/Looli_1/tree/main/Aadukalam-320kbps-MassTamilan.com/A-Love-Blossoms-Instrumental.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Aadukalam_%28soundtrack%29.jpeg",
+        "artist": "G.V. Prakash Kumar,Navin Iyer",
+        "album": "Aadukalam",
+        "theme": "Intro",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0036",
+        "title": "Ayyayo Nenju",
+        "url":"https://github.com/Looli-10/Looli_1/tree/main/Aadukalam-320kbps-MassTamilan.com/Ayyayo-Nenju.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Aadukalam_%28soundtrack%29.jpeg",
+        "artist": "G.V. Prakash Kumar, S. P. Balasubrahmanyam, S. P. B. Charan, Prashanthini",
+        "album": "Aadukalam",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0037",
+        "title":"En Vennilave",
+        "url":"https://github.com/Looli-10/Looli_1/tree/main/Aadukalam-320kbps-MassTamilan.com/En-Vennilave.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Aadukalam_%28soundtrack%29.jpeg",
+        "artist": "G.V. Prakash Kumar, Kay Kay",
+        "album": "Aadukalam",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0038",
+        "title": "Otha Sollaala",
+        "url":"https://github.com/Looli-10/Looli_1/tree/main/Aadukalam-320kbps-MassTamilan.com/Otha-Sollaala.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Aadukalam_%28soundtrack%29.jpeg",
+        "artist": "G.V. Prakash Kumar, Velmurugan",
+        "album": "Aadukalam",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0039",
+        "title": "Porkkalam (Tamil-Rap)",
+        "url":"https://github.com/Looli-10/Looli_1/tree/main/Aadukalam-320kbps-MassTamilan.com/Porkkalam-Tamil-Rap.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Aadukalam_%28soundtrack%29.jpeg",
+        "artist": "G.V. Prakash Kumar, Yogi B, Alwa Vasu",
+        "album": "Aadukalam",
+        "theme": "Boost", 
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0040",
+        "title": "Warriors (English Rap)",
+        "url":"https://github.com/Looli-10/Looli_1/tree/main/Aadukalam-320kbps-MassTamilan.com/Warriors-English-Rap.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Aadukalam_%28soundtrack%29.jpeg",
+        "artist": "G.V. Prakash Kumar, Yogi B",
+        "album": "Aadukalam",
+        "theme": "Boost",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0041",
+        "title":"Yathe Yathe",
+        "url":"https://github.com/Looli-10/Looli_1/tree/main/Aadukalam-320kbps-MassTamilan.com/Yathe-Yathe.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Aadukalam_%28soundtrack%29.jpeg",
+        "artist": "G.V. Prakash Kumar",
+        "album": "Aadukalam",
+        "theme": "Love",
+        "language": "Tamil"
+      }
+    ]
   }
 ]
