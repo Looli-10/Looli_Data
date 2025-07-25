@@ -566,5 +566,101 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title":"Alaipayuthey",
+    "image":"https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+    "songs":[
+      {
+        "id": "song_0053",
+        "title": "Alaipayuthey Kanna",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Alaipayuthey-Kanna.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+        "artist": "A.R. Rahman, Kalyani Menon, Harini & Neyveli Ramalakshmi Krishna",
+        "album": "Alaipayuthey",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0054",
+        "title":"Endrendrum Punnagai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Endrendrum-Punnagai.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+        "artist": "A.R. Rahman, Praveen, Shankar, Clinton & Srinivas",
+        "album": "Alaipayuthey",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0055",
+        "title": "Evano Oruvan Vasikiran",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Evano-Oruvan-Vasikiran.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+        "artist": "A.R. Rahman, Karthik, Swarnalatha",
+        "album": "Alaipayuthey",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0056",
+        "title": "Kadhal Sadugudu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Kadhal-Sadugudu.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+        "artist": "A.R. Rahman, S.P.B. Charan & Naveen",
+        "album": "Alaipayuthey",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0057",
+        "title": "Mangalyam Tantunanena",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Mangalyam-Tantunanena.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+        "artist": "A.R. Rahman, Clinton Cerejo, Srinivas",
+        "album": "Alaipayuthey",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0058",
+        "title": "Pachai Nirame",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Pachai-Nirame.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+        "artist": "A.R. Rahman, Hariharan, Clinton",
+        "album": "Alaipayuthey",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0059",
+        "title": "September Madham",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/September-Madham.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+        "artist": "A.R. Rahman, Asha Bhosle & Shankar Mahadevan",
+        "album": "Alaipayuthey",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0060",
+        "title": "Snehithane Snehithane",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Snehithane-Snehithane.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+        "artist": "A.R. Rahman, Karthik, Sadhana Sargam, Srinivas",
+        "album": "Alaipayuthey",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0061",
+        "title": "Yaro Yarodi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Yaro-Yarodi.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+        "artist": "A.R. Rahman, Mahalaxmi Iyer, Vaishali & Richa Sharma",
+        "album": "Alaipayuthey",
+        "theme": "Love",
+        "language": "Tamil"
+      }
+    ]
   }
 ]
