@@ -510,5 +510,61 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title":"Achcham Yenbadhu Madamaiyada(AYM)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d2c57132f48f437dc2976acc",
+    "songs":[
+      {
+        "id": "song_0048",
+        "title": "Avalum Naanum",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Achcham-Yenbadhu-Madamaiyada-AYM-320kbps-MassTamilan.com/Avalum-Naanum.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d2c57132f48f437dc2976acc",
+        "artist": "A.R. Rahman, Vijay Yesudas",
+        "album": "Achcham Yenbadhu Madamaiyada (AYM)",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0049",
+        "title": "Idhu Naal",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Achcham-Yenbadhu-Madamaiyada-AYM-320kbps-MassTamilan.com/Idhu-Naal.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d2c57132f48f437dc2976acc",
+        "artist": "A.R. Rahman, Aditya Rao, Jonita Gandhi",
+        "album": "Achcham Yenbadhu Madamaiyada (AYM)",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0050",
+        "title": "Rasaali",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Achcham-Yenbadhu-Madamaiyada-AYM-320kbps-MassTamilan.com/Rasaali.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d2c57132f48f437dc2976acc",
+        "artist": "A.R. Rahman, Sathya Prakash, Shasha Tirupati",
+        "album": "Achcham Yenbadhu Madamaiyada (AYM)",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0051",
+        "title":"Showkali",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Achcham-Yenbadhu-Madamaiyada-AYM-320kbps-MassTamilan.com/Showkali.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d2c57132f48f437dc2976acc",
+        "artist": "A.R. Rahman, Aditya Rao, Aaryan Dinesh Kanagaratnam, Sri Rascol",
+        "album": "Achcham Yenbadhu Madamaiyada (AYM)",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0052",
+        "title": "Thalli Pogathey",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Achcham-Yenbadhu-Madamaiyada-AYM-320kbps-MassTamilan.com/Thalli-Pogathey.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d2c57132f48f437dc2976acc",
+        "artist": "A.R. Rahman, Sid Sriram, Aaryan Dinesh Kanagaratnam, Aparna Narayanan",
+        "album": "Achcham Yenbadhu Madamaiyada (AYM)",
+        "theme": "Love",
+        "language": "Tamil"
+      }
+    ]
   }
 ]
