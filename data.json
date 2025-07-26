@@ -758,5 +758,71 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title":"Anbe Aaruyire (Ah Aah)",
+    "image":"https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
+    "songs":[
+      {
+        "id": "song_0071",
+        "title":"Aararai Kodi (Anbe Aaruyire)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Aararai-Kodi-(Anbe-Aaruyire)-MassTamilan.com.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
+        "artist": "A.R. Rahmanm",
+        "album": "Anbe Aaruyire (Ah Aah)",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0072",
+        "title":"Maram Kothiye",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Maram-Kothiye-MassTamilan.com.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
+        "artist": "A.R. Rahman, Shankar Mahadevan, Pop Shalini, Vasundhara Das, Blaaze",
+        "album": "Anbe Aaruyire (Ah Aah)",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0073",
+        "title":"Mayiliragae",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Mayiliragae-MassTamilan.com.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
+        "artist": "A.R. Rahman, Naresh Iyer, Madhushree",
+        "album": "Anbe Aaruyire (Ah Aah)",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0074",
+        "title":"Thazhuvudu Nazhuvudu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Thazhuvudu-Nazhuvudu-MassTamilan.com.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
+        "artist": "A.R. Rahman, S. P. Balasubrahmanyam, Shreya Ghoshal",
+        "album": "Anbe Aaruyire (Ah Aah)",
+        "theme": "Item",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0075",
+        "title":"Thigu Thigu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Thigu-Thigu-MassTamilan.com.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
+        "artist": "A.R. Rahman, Sadhana Sargam, Blaaze",
+        "album": "Anbe Aaruyire (Ah Aah)",
+        "theme": "Item",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0076",
+        "title":" Varugirai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Varugirai-MassTamilan.com.mp3",
+        "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
+        "artist": "A.R. Rahman, Hariharan, K. S. Chithra",
+        "album": "Anbe Aaruyire (Ah Aah)",
+        "theme": "Breakup",
+        "language": "Tamil"
+      }
+    ]
   }
 ]
