@@ -446,12 +446,12 @@
     ]
   },
   {
-    "title":"Aaytha Ezhuthu",
+    "title": "Aaytha Ezhuthu",
     "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
-    "songs":[
+    "songs": [
       {
         "id": "song_0042",
-        "title":" Dol Dol",
+        "title": " Dol Dol",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aaytha-Ezhuthu-320kbps-MassTamilan.com/Dol-Dol.mp3",
         "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
         "artist": "A.R. Rahman, Blaaze, Shahin Bada",
@@ -501,7 +501,7 @@
       },
       {
         "id": "song_0047",
-        "title":"Yakkai Thiri",
+        "title": "Yakkai Thiri",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aaytha-Ezhuthu-320kbps-MassTamilan.com/Yakkai-Thiri.mp3",
         "image": "https://c.saavncdn.com/929/Aayitha-Ezhutu-Tamil-2004-20190629140126-500x500.jpg",
         "artist": "A.R. Rahman, Blaaze, Shahin Bada",
@@ -512,9 +512,9 @@
     ]
   },
   {
-    "title":"Achcham Yenbadhu Madamaiyada(AYM)",
+    "title": "Achcham Yenbadhu Madamaiyada(AYM)",
     "image": "https://i.scdn.co/image/ab67616d0000b273d2c57132f48f437dc2976acc",
-    "songs":[
+    "songs": [
       {
         "id": "song_0048",
         "title": "Avalum Naanum",
@@ -547,7 +547,7 @@
       },
       {
         "id": "song_0051",
-        "title":"Showkali",
+        "title": "Showkali",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Achcham-Yenbadhu-Madamaiyada-AYM-320kbps-MassTamilan.com/Showkali.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b273d2c57132f48f437dc2976acc",
         "artist": "A.R. Rahman, Aditya Rao, Aaryan Dinesh Kanagaratnam, Sri Rascol",
@@ -568,9 +568,9 @@
     ]
   },
   {
-    "title":"Alaipayuthey",
-    "image":"https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
-    "songs":[
+    "title": "Alaipayuthey",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
+    "songs": [
       {
         "id": "song_0053",
         "title": "Alaipayuthey Kanna",
@@ -583,7 +583,7 @@
       },
       {
         "id": "song_0054",
-        "title":"Endrendrum Punnagai",
+        "title": "Endrendrum Punnagai",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Endrendrum-Punnagai.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
         "artist": "A.R. Rahman, Praveen, Shankar, Clinton & Srinivas",
@@ -624,7 +624,7 @@
       {
         "id": "song_0058",
         "title": "Pachai Nirame",
-        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Pachai-Nirame.mp3",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Pachchai-Nirame.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
         "artist": "A.R. Rahman, Hariharan, Clinton",
         "album": "Alaipayuthey",
@@ -644,7 +644,7 @@
       {
         "id": "song_0060",
         "title": "Snehithane Snehithane",
-        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Snehithane-Snehithane.mp3",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Alaipayuthey-320kbps-MassTamilan.com/Snehidhane.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b273b2aa9e9104987ff6bef1b8ff",
         "artist": "A.R. Rahman, Karthik, Sadhana Sargam, Srinivas",
         "album": "Alaipayuthey",
@@ -664,12 +664,12 @@
     ]
   },
   {
-    "title":"Ambikapathy",
-    "image":"https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
-    "songs":[
+    "title": "Ambikapathy",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
+    "songs": [
       {
         "id": "song_0062",
-        "title":"Ambikapathy",
+        "title": "Ambikapathy",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Ambikapathy-320kbps-MassTamilan.com/Ambikapathy.mp3",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
         "artist": "A.R. Rahman, Naresh Iyer",
@@ -679,7 +679,7 @@
       },
       {
         "id": "song_0063",
-        "title":"Kalaarasiga",
+        "title": "Kalaarasiga",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Ambikapathy-320kbps-MassTamilan.com/Kalaarasiga.mp3",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
         "artist": "A.R. Rahman, Shweta Mohan, Sharanya Srinivas",
@@ -689,7 +689,7 @@
       },
       {
         "id": "song_0064",
-        "title":"Kanaave Kanaave",
+        "title": "Kanaave Kanaave",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Ambikapathy-320kbps-MassTamilan.com/Kanaave-Kanaave.mp3",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
         "artist": "A.R. Rahman, Madhushree, Vaishali, Chinmayi, Pooja, Sharanya Srinivasan, Aanchal Sethi",
@@ -698,8 +698,8 @@
         "language": "Tamil"
       },
       {
-        "id":"song_0065",
-        "title":"Oliyaaga Vandhaai",
+        "id": "song_0065",
+        "title": "Oliyaaga Vandhaai",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Ambikapathy-320kbps-MassTamilan.com/Oliyaaga-Vandhaai.mp3",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
         "artist": "A.R. Rahman, Javed Ali, KMMC Sufi Ensemble",
@@ -709,7 +709,7 @@
       },
       {
         "id": "song_0066",
-        "title":"Paarkaadhey Oru Madhiri",
+        "title": "Paarkaadhey Oru Madhiri",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Ambikapathy-320kbps-MassTamilan.com/Paarkaadhey-Oru-Madhiri.mp3",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
         "artist": "A.R. Rahman, Karthik",
@@ -719,7 +719,7 @@
       },
       {
         "id": "song_0067",
-        "title":"Parakka Seivaai",
+        "title": "Parakka Seivaai",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Ambikapathy-320kbps-MassTamilan.com/Parakka-Seivaai.mp3",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
         "artist": "A.R. Rahman, Karthik, Mili Nair  ",
@@ -729,17 +729,17 @@
       },
       {
         "id": "song_0068",
-        "title":"Solvadhai Seidhu Mudippom",
+        "title": "Solvadhai Seidhu Mudippom",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Ambikapathy-320kbps-MassTamilan.com/Solvadhai-Seidhu-Mudippom.mp3",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
         "artist": "A.R. Rahman, Mohammed Rafi",
         "album": "Ambikapathy",
-        "theme": "Vibe",  
+        "theme": "Vibe",
         "language": "Tamil"
       },
       {
         "id": "song_0069",
-        "title":"The Land Of Shiva",
+        "title": "The Land Of Shiva",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Ambikapathy-320kbps-MassTamilan.com/The-Land-Of-Shiva.mp3",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
         "artist": "A.R. Rahman",
@@ -749,7 +749,7 @@
       },
       {
         "id": "song_0070",
-        "title":"Unnaal Unnaal",
+        "title": "Unnaal Unnaal",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Ambikapathy-320kbps-MassTamilan.com/Unnaal-Unnaal.mp3",
         "image": "https://m.media-amazon.com/images/S/pv-target-images/83673fa9c837e219d95e5f752355e4d95e40b2aa260e8d25a90763cea06ab9c5.jpg",
         "artist": "A.R. Rahman, Haricharan, Pooja",
@@ -760,12 +760,12 @@
     ]
   },
   {
-    "title":"Anbe Aaruyire (Ah Aah)",
-    "image":"https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
-    "songs":[
+    "title": "Anbe Aaruyire (Ah Aah)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
+    "songs": [
       {
         "id": "song_0071",
-        "title":"Aararai Kodi (Anbe Aaruyire)",
+        "title": "Aararai Kodi (Anbe Aaruyire)",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Aararai-Kodi-(Anbe-Aaruyire)-MassTamilan.com.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
         "artist": "A.R. Rahmanm",
@@ -775,7 +775,7 @@
       },
       {
         "id": "song_0072",
-        "title":"Maram Kothiye",
+        "title": "Maram Kothiye",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Maram-Kothiye-MassTamilan.com.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
         "artist": "A.R. Rahman, Shankar Mahadevan, Pop Shalini, Vasundhara Das, Blaaze",
@@ -785,7 +785,7 @@
       },
       {
         "id": "song_0073",
-        "title":"Mayiliragae",
+        "title": "Mayiliragae",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Mayiliragae-MassTamilan.com.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
         "artist": "A.R. Rahman, Naresh Iyer, Madhushree",
@@ -795,7 +795,7 @@
       },
       {
         "id": "song_0074",
-        "title":"Thazhuvudu Nazhuvudu",
+        "title": "Thazhuvudu Nazhuvudu",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Thazhuvudu-Nazhuvudu-MassTamilan.com.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
         "artist": "A.R. Rahman, S. P. Balasubrahmanyam, Shreya Ghoshal",
@@ -805,7 +805,7 @@
       },
       {
         "id": "song_0075",
-        "title":"Thigu Thigu",
+        "title": "Thigu Thigu",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Thigu-Thigu-MassTamilan.com.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
         "artist": "A.R. Rahman, Sadhana Sargam, Blaaze",
@@ -815,7 +815,7 @@
       },
       {
         "id": "song_0076",
-        "title":" Varugirai",
+        "title": "Varugirai",
         "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe-Aaruyire-Ah-Aah-320kbps-MassTamilan.com/Varugirai-MassTamilan.com.mp3",
         "image": "https://i.scdn.co/image/ab67616d0000b27391a0c9fbbbc990d4df421513",
         "artist": "A.R. Rahman, Hariharan, K. S. Chithra",
