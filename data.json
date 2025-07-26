@@ -900,5 +900,92 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title": "Asal",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeZQmnWf0ENFTua3SuMugmEw7Lz7zoZGznw&s",
+    "songs": [
+      {
+        "id": "song_0084",
+        "title": "Asal",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asal-320kbps-MassTamilan.dev/Asal-MassTamilan.dev.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeZQmnWf0ENFTua3SuMugmEw7Lz7zoZGznw&s",
+        "artist": "Harris Jayaraj",
+        "album": "Asal",
+        "theme": "Title Track",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0085",
+        "title": "Kanava Ninaiva",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asal-320kbps-MassTamilan.dev/Kanava-Ninaiva-MassTamilan.dev.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeZQmnWf0ENFTua3SuMugmEw7Lz7zoZGznw&s",
+        "artist": "Harris Jayaraj",
+        "album": "Asal",
+        "theme": "Dreamy",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0086",
+        "title": "Kuthiraikku Theriyum",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asal-320kbps-MassTamilan.dev/Kuthiraikku-Theriyum-MassTamilan.dev.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeZQmnWf0ENFTua3SuMugmEw7Lz7zoZGznw&s",
+        "artist": "Harris Jayaraj",
+        "album": "Asal",
+        "theme": "Folk/Dance",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0087",
+        "title": "Singam Endral",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asal-320kbps-MassTamilan.dev/Singam-Endral-MassTamilan.dev.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeZQmnWf0ENFTua3SuMugmEw7Lz7zoZGznw&s",
+        "artist": "Harris Jayaraj",
+        "album": "Asal",
+        "theme": "Action",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0088",
+        "title": "Tottodaing",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asal-320kbps-MassTamilan.dev/Tottodaing-MassTamilan.dev.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeZQmnWf0ENFTua3SuMugmEw7Lz7zoZGznw&s",
+        "artist": "Harris Jayaraj",
+        "album": "Asal",
+        "theme": "Groovy",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0089",
+        "title": "Yea Dushyantha",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asal-320kbps-MassTamilan.dev/Yea-Dushyantha-MassTamilan.dev.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeZQmnWf0ENFTua3SuMugmEw7Lz7zoZGznw&s",
+        "artist": "Harris Jayaraj",
+        "album": "Asal",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0090",
+        "title": "Yengay Yengay (Version 1)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asal-320kbps-MassTamilan.dev/Yengay-Yengay-V1-MassTamilan.dev.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeZQmnWf0ENFTua3SuMugmEw7Lz7zoZGznw&s",
+        "artist": "Harris Jayaraj",
+        "album": "Asal",
+        "theme": "Melancholy",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0091",
+        "title": "Yengay Yengay (Version 2)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asal-320kbps-MassTamilan.dev/Yengay-Yengay-V2-MassTamilan.dev.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeZQmnWf0ENFTua3SuMugmEw7Lz7zoZGznw&s",
+        "artist": "Harris Jayaraj",
+        "album": "Asal",
+        "theme": "Melancholy",
+        "language": "Tamil"
+      }
+    ]
   }
+
 ]
