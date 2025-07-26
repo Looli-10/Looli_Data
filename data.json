@@ -838,6 +838,66 @@
         "album": "Aridhu Aridhu",
         "theme": "Vibe",
         "language": "Tamil"
+      },
+      {
+        "id": "song_0078",
+        "title": "Ithil Oru Kadhal",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aridhu-Aridhu-128kbps-MassTamilan.com/Ithil-Oru-Kadhal-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTJmNTQ4YmQtNWZlNy00YjhhLTg2NTMtZTA4NTZkNTFiNzFiXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Thaman",
+        "album": "Aridhu Aridhu",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0079",
+        "title": "Kanavugal Edhuvarai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aridhu-Aridhu-128kbps-MassTamilan.com/Kanavugal-Edhuvarai-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTJmNTQ4YmQtNWZlNy00YjhhLTg2NTMtZTA4NTZkNTFiNzFiXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Thaman",
+        "album": "Aridhu Aridhu",
+        "theme": "Dreamy",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0080",
+        "title": "Missing Something",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aridhu-Aridhu-128kbps-MassTamilan.com/Missing-Something-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTJmNTQ4YmQtNWZlNy00YjhhLTg2NTMtZTA4NTZkNTFiNzFiXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Thaman",
+        "album": "Aridhu Aridhu",
+        "theme": "Melancholy",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0081",
+        "title": "Oh Lalali",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aridhu-Aridhu-128kbps-MassTamilan.com/Oh-Lalali-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTJmNTQ4YmQtNWZlNy00YjhhLTg2NTMtZTA4NTZkNTFiNzFiXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Thaman",
+        "album": "Aridhu Aridhu",
+        "theme": "Fun",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0082",
+        "title": "Saturday Girlodu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aridhu-Aridhu-128kbps-MassTamilan.com/Saturday-Girlodu-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTJmNTQ4YmQtNWZlNy00YjhhLTg2NTMtZTA4NTZkNTFiNzFiXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Thaman",
+        "album": "Aridhu Aridhu",
+        "theme": "Party",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0083",
+        "title": "Un Uyirai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aridhu-Aridhu-128kbps-MassTamilan.com/Un-Uyirai-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTJmNTQ4YmQtNWZlNy00YjhhLTg2NTMtZTA4NTZkNTFiNzFiXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Thaman",
+        "album": "Aridhu Aridhu",
+        "theme": "Romantic",
+        "language": "Tamil"
       }
     ]
   }
