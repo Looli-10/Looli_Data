@@ -824,5 +824,21 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title": "Aridhu Aridhu",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTJmNTQ4YmQtNWZlNy00YjhhLTg2NTMtZTA4NTZkNTFiNzFiXkEyXkFqcGc@._V1_.jpg",
+    "songs": [
+      {
+        "id": "song_0077",
+        "title": "Azhagaai Sirithaayada",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aridhu-Aridhu-128kbps-MassTamilan.com/Azhagaai-Sirithaayada-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTJmNTQ4YmQtNWZlNy00YjhhLTg2NTMtZTA4NTZkNTFiNzFiXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Thaman",
+        "album": "Aridhu Aridhu",
+        "theme": "Vibe",
+        "language": "Tamil"
+      }
+    ]
   }
 ]
