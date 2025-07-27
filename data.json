@@ -1687,10 +1687,61 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title": "Eesan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBWFNswr8ea4n9PHy2UT09ie9YT2J9MS9RA&s",
+    "songs": [
+      {
+        "id": "song_0165",
+        "title": "Get Ready",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Eesan-320kbps-MassTamilan.com/Get-Ready.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBWFNswr8ea4n9PHy2UT09ie9YT2J9MS9RA&s",
+        "artist": "James Vasanthan",
+        "album": "Eesan",
+        "theme": "Energetic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0166",
+        "title": "Jilla Vittu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Eesan-320kbps-MassTamilan.com/Jilla-Vittu.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBWFNswr8ea4n9PHy2UT09ie9YT2J9MS9RA&s",
+        "artist": "James Vasanthan",
+        "album": "Eesan",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0167",
+        "title": "Kannil Anbai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Eesan-320kbps-MassTamilan.com/Kannil-Anbai.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBWFNswr8ea4n9PHy2UT09ie9YT2J9MS9RA&s",
+        "artist": "James Vasanthan",
+        "album": "Eesan",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0168",
+        "title": "Meyyana Inbam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Eesan-320kbps-MassTamilan.com/Meyyana-Inbam.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBWFNswr8ea4n9PHy2UT09ie9YT2J9MS9RA&s",
+        "artist": "James Vasanthan",
+        "album": "Eesan",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0169",
+        "title": "Sugavasi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Eesan-320kbps-MassTamilan.com/Sugavasi.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBWFNswr8ea4n9PHy2UT09ie9YT2J9MS9RA&s",
+        "artist": "James Vasanthan",
+        "album": "Eesan",
+        "theme": "Sentimental",
+        "language": "Tamil"
+      }
+    ]
   }
-
-
-
-
-
 ]
