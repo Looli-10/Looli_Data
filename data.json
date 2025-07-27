@@ -1743,6 +1743,310 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title": "Enthiran",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAkq5MbpCLD5F0cdR9l-NwM8i_vuTbQ2Srg&s",
+    "songs": [
+      {
+        "id": "song_0170",
+        "title": "Arima Arima",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Enthiran-320kbps-MassTamilan.com/Arima-Arima.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAkq5MbpCLD5F0cdR9l-NwM8i_vuTbQ2Srg&s",
+        "artist": "A.R. Rahman",
+        "album": "Enthiran",
+        "theme": "Power",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0171",
+        "title": "Boom Boom Robo Da",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Enthiran-320kbps-MassTamilan.com/Boom-Boom-Robo-Da.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAkq5MbpCLD5F0cdR9l-NwM8i_vuTbQ2Srg&s",
+        "artist": "A.R. Rahman",
+        "album": "Enthiran",
+        "theme": "Sci-Fi",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0172",
+        "title": "Chitti Dance Showcase",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Enthiran-320kbps-MassTamilan.com/Chitti-Dance-Showcase.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAkq5MbpCLD5F0cdR9l-NwM8i_vuTbQ2Srg&s",
+        "artist": "A.R. Rahman",
+        "album": "Enthiran",
+        "theme": "Instrumental",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0173",
+        "title": "Irumbile Oru Idhaiyam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Enthiran-320kbps-MassTamilan.com/Irumbile-Oru-Idhaiyam.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAkq5MbpCLD5F0cdR9l-NwM8i_vuTbQ2Srg&s",
+        "artist": "A.R. Rahman",
+        "album": "Enthiran",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0174",
+        "title": "Kadal Anukkal",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Enthiran-320kbps-MassTamilan.com/Kadal-Anukkal.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAkq5MbpCLD5F0cdR9l-NwM8i_vuTbQ2Srg&s",
+        "artist": "A.R. Rahman",
+        "album": "Enthiran",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0175",
+        "title": "Kilimanjaro",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Enthiran-320kbps-MassTamilan.com/Kilimanjaro.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAkq5MbpCLD5F0cdR9l-NwM8i_vuTbQ2Srg&s",
+        "artist": "A.R. Rahman",
+        "album": "Enthiran",
+        "theme": "Tribal",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0176",
+        "title": "Puthiya Manidha",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Enthiran-320kbps-MassTamilan.com/Puthiya-Manidha.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAkq5MbpCLD5F0cdR9l-NwM8i_vuTbQ2Srg&s",
+        "artist": "A.R. Rahman",
+        "album": "Enthiran",
+        "theme": "Futuristic",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Goa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+    "songs": [
+      {
+        "id": "song_0177",
+        "title": "Adida Nayaandiya",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Goa-320kbps-MassTamilan.com/Adida-Nayaandiya.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Goa",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0178",
+        "title": "Goa Club Mix",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Goa-320kbps-MassTamilan.com/Goa-Club-Mix.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Goa",
+        "theme": "Dance",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0179",
+        "title": "Goa",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Goa-320kbps-MassTamilan.com/Goa.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Goa",
+        "theme": "Theme",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0180",
+        "title": "Idaivazhi Oru",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Goa-320kbps-MassTamilan.com/Idaivazhi-Oru.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Goa",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0181",
+        "title": "Idhu Varai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Goa-320kbps-MassTamilan.com/Idhu-Varai.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Goa",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0182",
+        "title": "Kaadal Endral",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Goa-320kbps-MassTamilan.com/Kaadal-Endral.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Goa",
+        "theme": "Feel Good",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0183",
+        "title": "Ooru Nalla Ooru",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Goa-320kbps-MassTamilan.com/Ooru-Nalla-Ooru.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Goa",
+        "theme": "Fun",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0184",
+        "title": "Vaaliba Vaa Vaa",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Goa-320kbps-MassTamilan.com/Vaaliba-Vaa-Vaa.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Goa",
+        "theme": "Youth",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0185",
+        "title": "Yeleu Thalamuakkum",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Goa-320kbps-MassTamilan.com/Yeleu-Thalamuakkum.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Goa",
+        "theme": "Cultural",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Guru Sishyan",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDFlZmJmYTUtNjdlMi00MDhkLTgyMzEtZjI2YmIzM2FjMzg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "songs": [
+      {
+        "id": "song_0186",
+        "title": "Aandava Andava",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Guru-Sishyan-320kbps-MassTamilan.io/Aandava-Andava-MassTamilan.io.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDFlZmJmYTUtNjdlMi00MDhkLTgyMzEtZjI2YmIzM2FjMzg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Sabesh–Murali",
+        "album": "Guru Sishyan",
+        "theme": "Mass",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0187",
+        "title": "Aataiyai Podu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Guru-Sishyan-320kbps-MassTamilan.io/Aataiyai-Podu-MassTamilan.io.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDFlZmJmYTUtNjdlMi00MDhkLTgyMzEtZjI2YmIzM2FjMzg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Sabesh–Murali",
+        "album": "Guru Sishyan",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0188",
+        "title": "Kathara Kathara",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Guru-Sishyan-320kbps-MassTamilan.io/Kathara-Kathara-MassTamilan.io.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDFlZmJmYTUtNjdlMi00MDhkLTgyMzEtZjI2YmIzM2FjMzg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Sabesh–Murali",
+        "album": "Guru Sishyan",
+        "theme": "Fun",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0189",
+        "title": "Kettaley",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Guru-Sishyan-320kbps-MassTamilan.io/Kettaley-MassTamilan.io.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDFlZmJmYTUtNjdlMi00MDhkLTgyMzEtZjI2YmIzM2FjMzg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Sabesh–Murali",
+        "album": "Guru Sishyan",
+        "theme": "Dance",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0190",
+        "title": "Subaiya Subaiya",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Guru-Sishyan-320kbps-MassTamilan.io/Subaiya-Subaiya-MassTamilan.io.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDFlZmJmYTUtNjdlMi00MDhkLTgyMzEtZjI2YmIzM2FjMzg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Sabesh–Murali",
+        "album": "Guru Sishyan",
+        "theme": "Romantic",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Inidhu Inidhu",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayDgsKemP6euT55-OJndUfimNQ7A4xnHpQ&s",
+    "songs": [
+      {
+        "id": "song_0191",
+        "title": "Ammakale",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Inidhu-Inidhu-320kbps-MassTamilan.com/Ammakale.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayDgsKemP6euT55-OJndUfimNQ7A4xnHpQ&s",
+        "artist": "Mickey J Meyer",
+        "album": "Inidhu Inidhu",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0192",
+        "title": "Ennangal Vaananoki",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Inidhu-Inidhu-320kbps-MassTamilan.com/Ennangal-Vaananoki.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayDgsKemP6euT55-OJndUfimNQ7A4xnHpQ&s",
+        "artist": "Mickey J Meyer",
+        "album": "Inidhu Inidhu",
+        "theme": "Feel Good",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0193",
+        "title": "Inbam Ethirilae",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Inidhu-Inidhu-320kbps-MassTamilan.com/Inbam-Ethirilae.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayDgsKemP6euT55-OJndUfimNQ7A4xnHpQ&s",
+        "artist": "Mickey J Meyer",
+        "album": "Inidhu Inidhu",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0194",
+        "title": "Indihu Inidhu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Inidhu-Inidhu-320kbps-MassTamilan.com/Indihu-Inidhu.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayDgsKemP6euT55-OJndUfimNQ7A4xnHpQ&s",
+        "artist": "Mickey J Meyer",
+        "album": "Inidhu Inidhu",
+        "theme": "Youth",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0195",
+        "title": "Kallori Thayeh",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Inidhu-Inidhu-320kbps-MassTamilan.com/Kallori-Thayeh.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayDgsKemP6euT55-OJndUfimNQ7A4xnHpQ&s",
+        "artist": "Mickey J Meyer",
+        "album": "Inidhu Inidhu",
+        "theme": "College",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0196",
+        "title": "Kodi Kanam Kannil",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Inidhu-Inidhu-320kbps-MassTamilan.com/Kodi-Kanam-Kannil.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayDgsKemP6euT55-OJndUfimNQ7A4xnHpQ&s",
+        "artist": "Mickey J Meyer",
+        "album": "Inidhu Inidhu",
+        "theme": "Inspiration",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0197",
+        "title": "Vazhkai Oru",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Inidhu-Inidhu-320kbps-MassTamilan.com/Vazhkai-Oru.mp3",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayDgsKemP6euT55-OJndUfimNQ7A4xnHpQ&s",
+        "artist": "Mickey J Meyer",
+        "album": "Inidhu Inidhu",
+        "theme": "Motivational",
+        "language": "Tamil"
+      }
+    ]
   }
 ]
 
