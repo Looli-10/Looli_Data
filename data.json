@@ -2047,6 +2047,53 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+    "title": "Jaanu",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/3da506c6b7c18810f945fa71f82e59a3e0ae6e2fdf753cb89e619d7658e8fde9.jpg",
+    "songs": [
+      {
+        "id": "song_0198",
+        "title": "Journey",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Jaanu-320kbps-MassTamilan.fm/Journey-MassTamilan.fm.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/3da506c6b7c18810f945fa71f82e59a3e0ae6e2fdf753cb89e619d7658e8fde9.jpg",
+        "artist": "Govind Vasantha",
+        "album": "Jaanu",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0199",
+        "title": "Kanaave",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Jaanu-320kbps-MassTamilan.fm/Kanaave-MassTamilan.fm.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/3da506c6b7c18810f945fa71f82e59a3e0ae6e2fdf753cb89e619d7658e8fde9.jpg",
+        "artist": "Govind Vasantha",
+        "album": "Jaanu",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0200",
+        "title": "Theeraa",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Jaanu-320kbps-MassTamilan.fm/Theeraa-MassTamilan.fm.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/3da506c6b7c18810f945fa71f82e59a3e0ae6e2fdf753cb89e619d7658e8fde9.jpg",
+        "artist": "Govind Vasantha",
+        "album": "Jaanu",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0201",
+        "title": "Vaa",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Jaanu-320kbps-MassTamilan.fm/Vaa-MassTamilan.fm.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/3da506c6b7c18810f945fa71f82e59a3e0ae6e2fdf753cb89e619d7658e8fde9.jpg",
+        "artist": "Govind Vasantha",
+        "album": "Jaanu",
+        "theme": "Love",
+        "language": "Tamil"
+      }
+    ]
   }
+  
 ]
 
