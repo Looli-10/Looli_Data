@@ -3189,6 +3189,21 @@
         "language": "Tamil"
       }
     ]
+  },
+  {
+   "title":"Ed Sheeran",
+    "image":"https://cdn.britannica.com/17/249617-050-4575AB4C/Ed-Sheeran-performs-Rockefeller-Plaza-Today-Show-New-York-2023.jpg", 
+    "songs":[
+      {
+        "id":"song_0302",
+        "title":"Shape of You",
+        "url":"https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed Sheeran - Shape of You Official Video .mp3",
+        "image":"https://i.ytimg.com/vi/xTvyyoF_LZY/sddefault.jpg",
+        "artist":"Ed Sheeran",
+        "album":"Ed Sheeran",
+        "theme":"Love",
+        "language":"English"
+      }
+    ]
   }
-  
 ]
