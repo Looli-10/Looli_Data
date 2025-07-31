@@ -3192,8 +3192,10 @@
   },
   {
     "title": "Ed Sheeran",
-    "image": "https://cdn.britannica.com/17/249617-050-4575AB4C/Ed-Sheeran-performs-Rockefeller-Plaza-Today-Show-New-York-2023.jpg",
     "songs": [
+      {
+        "image":"https://cdn.britannica.com/17/249617-050-4575AB4C/Ed-Sheeran-performs-Rockefeller-Plaza-Today-Show-New-York-2023.jpg"
+      },
       {
         "id": "song_0302",
         "title": "Antisocial (with Travis Scott)",
