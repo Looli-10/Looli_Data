@@ -2839,7 +2839,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Raavanan",
     "image": "https://mangapachadi.wordpress.com/wp-content/uploads/2010/06/t-black-poster.jpg",
@@ -2925,7 +2925,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Singam",
     "image": "https://m.media-amazon.com/images/M/MV5BOWVlNDBjMzItMWE4MS00ZDdiLTgwZmEtZDQxMWU3MjlmMmEwXkEyXkFqcGc@._V1_.jpg",
@@ -2991,7 +2991,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Sura",
     "image": "https://m.media-amazon.com/images/I/71ZcZbwMGsL._UF1000,1000_QL80_.jpg",
@@ -3534,427 +3534,863 @@
         "theme": "Boost",
         "language": "English"
       },
-        {
-          "id": "song_0366",
-          "title": "2step (feat. Lil Baby)",
-          "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/2step%20(feat.%20Lil%20Baby).mp3",
-          "image": "https://c.saavncdn.com/531/2step-feat-Armaan-Malik-English-2022-20220601144934-500x500.jpg",
-          "artist": "Ed Sheeran",
-          "album": "Ed Sheeran",
-          "theme": "Pop",
-          "language": "English"
-        },
-        {
-          "id": "song_0367",
-          "title": "Afterglow",
-          "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Afterglow.mp3",
-          "image": "https://i1.sndcdn.com/artworks-hjt7Xpq49fhUQHw7-sGfbfQ-t500x500.jpg",
-          "artist": "Ed Sheeran",
-          "album": "Ed Sheeran",
-          "theme": "Romantic",
-          "language": "English"
-        },
-        {
-          "id": "song_0368",
-          "title": "All of the Stars",
-          "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/All%20of%20the%20Stars.mp3",
-          "image": "https://i1.sndcdn.com/artworks-000657949456-qqtusi-t500x500.jpg",
-          "artist": "Ed Sheeran",
-          "album": "Ed Sheeran",
-          "theme": "Emotional",
-          "language": "English"
-        },
-          {
-            "id": "song_0369",
-            "title": "Azizam",
-            "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Azizam.mp3",
-            "image": "https://f4.bcbits.com/img/a2852750655_2.jpg",
-            "artist": "Ed Sheeran",
-            "album": "Ed Sheeran",
-            "theme": "World Music",
-            "language": "English"
-          },
-          {
-            "id": "song_0370",
-            "title": "Bad Habits",
-            "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Bad%20Habits.mp3",
-            "image": "https://i1.sndcdn.com/artworks-jR8h9bjTa4zSbVzy-KnLCXw-t500x500.jpg",
-            "artist": "Ed Sheeran",
-            "album": "Ed Sheeran",
-            "theme": "Pop",
-            "language": "English"
-          },
-          {
-            "id": "song_0371",
-            "title": "Bam Bam (feat. Ed Sheeran)",
-            "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Bam%20Bam%20(feat.%20Ed%20Sheeran).mp3",
-            "image": "https://i1.sndcdn.com/artworks-Hk4MGXuDUMCyrIGr-Bfzk3A-t500x500.jpg",
-            "artist": "Camila Cabello, Ed Sheeran",
-            "album": "Ed Sheeran",
-            "theme": "Dance Pop",
-            "language": "English"
-          },
-          {
-            "id": "song_0372",
-            "title": "Barcelona",
-            "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Barcelona.mp3",
-            "image": "https://i1.sndcdn.com/artworks-000238151091-es3may-t500x500.jpg",
-            "artist": "Ed Sheeran",
-            "album": "Ed Sheeran",
-            "theme": "Tropical",
-            "language": "English"
-          },
-            {
-              "id": "song_0373",
-              "title": "Bloodstream",
-              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Bloodstream.mp3",
-              "image": "https://i1.sndcdn.com/artworks-000441405861-rd8aue-t1080x1080.jpg",
-              "artist": "Ed Sheeran",
-              "album": "× (Multiply)",
-              "theme": "Emotional",
-              "language": "English"
-            },
-            {
-              "id": "song_0374",
-              "title": "Blue",
-              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Blue.mp3",
-              "image": "https://stanforddaily.com/wp-content/uploads/2017/01/ed-sheeran.jpeg",
-              "artist": "Ed Sheeran",
-              "album": "- (Subtract)",
-              "theme": "Melancholic",
-              "language": "English"
-            },
-            {
-              "id": "song_0375",
-              "title": "Boat",
-              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Boat.mp3",
-              "image": "https://images.genius.com/623496a1a9096d1a746cbc73844ea3a5.1000x1000x1.jpg",
-              "artist": "Ed Sheeran",
-              "album": "- (Subtract)",
-              "theme": "Sad",
-              "language": "English"
-            },
-            {
-              "id": "song_0376",
-              "title": "Borderline",
-              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Borderline.mp3",
-              "image": "https://ih1.redbubble.net/image.5012910959.9788/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
-              "artist": "Ed Sheeran",
-              "album": "- (Subtract)",
-              "theme": "Loneliness",
-              "language": "English"
-            },
-            {
-              "id": "song_0377",
-              "title": "Celestial",
-              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Celestial.mp3",
-              "image": "https://i1.sndcdn.com/artworks-H9p3L3C0bLtvyz6S-NISOzg-t500x500.jpg",
-              "artist": "Ed Sheeran",
-              "album": "Celestial (Pokémon Collaboration)",
-              "theme": "Inspiring",
-              "language": "English"
-            },
-            {
-              "id": "song_0378",
-              "title": "Collide",
-              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Collide.mp3",
-              "image": "https://i1.sndcdn.com/artworks-cnN46Jc24BdM-0-t500x500.jpg",
-              "artist": "Ed Sheeran",
-              "album": "=",
-              "theme": "Romantic",
-              "language": "English"
-            },
-            {
-              "id": "song_0379",
-              "title": "Colourblind",
-              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Colourblind.mp3",
-              "image": "https://i1.sndcdn.com/artworks-PC1ie9eq32j6-0-t500x500.jpg",
-              "artist": "Ed Sheeran",
-              "album": "- (Subtract)",
-              "theme": "Love",
-              "language": "English"
-            },
-              {
-                "id": "song_0380",
-                "title": "Curtains",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Curtains.mp3",
-                "image": "https://images.genius.com/623496a1a9096d1a746cbc73844ea3a5.1000x1000x1.jpg",
-                "artist": "Ed Sheeran",
-                "album": "- (Subtract)",
-                "theme": "Reflective",
-                "language": "English"
-              },
-              {
-                "id": "song_0381",
-                "title": "Drive (From F1® The Movie)",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Drive%20(From%20F1%C2%AE%20The%20Movie).mp3",
-                "image": "https://i1.sndcdn.com/artworks-REWBW3q3Pv1kWzBA-l9p9ag-t500x500.jpg",
-                "artist": "Ed Sheeran",
-                "album": "Drive OST",
-                "theme": "Energetic",
-                "language": "English"
-              },
-              {
-                "id": "song_0382",
-                "title": "Dusty",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Dusty.mp3",
-                "image": "https://i1.sndcdn.com/artworks-ZnTARvK3GnXW-0-t500x500.jpg",
-                "artist": "Ed Sheeran",
-                "album": "- (Subtract)",
-                "theme": "Nostalgic",
-                "language": "English"
-              },
-              {
-                "id": "song_0383",
-                "title": "End Of Youth",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/End%20Of%20Youth.mp3",
-                "image": "https://i1.sndcdn.com/artworks-ZnTARvK3GnXW-0-t500x500.jpg",
-                "artist": "Ed Sheeran",
-                "album": "- (Subtract)",
-                "theme": "Emotional",
-                "language": "English"
-              },
-              {
-                "id": "song_0384",
-                "title": "Eyes Closed",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Eyes%20Closed.mp3",
-                "image": "https://i1.sndcdn.com/artworks-Mo9bs5PUMYzdlHc2-9WFvDA-t500x500.jpg",
-                "artist": "Ed Sheeran",
-                "album": "- (Subtract)",
-                "theme": "Loss",
-                "language": "English"
-              },
-              {
-                "id": "song_0385",
-                "title": "F64",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/F64.mp3",
-                "image": "https://notjustok.com/wp-content/uploads/2022/02/E8235A08-98EE-4283-9D7D-6C633B86CD19.jpeg",
-                "artist": "Ed Sheeran",
-                "album": "F64",
-                "theme": "Tribute",
-                "language": "English"
-              },
-              {
-                "id": "song_0386",
-                "title": "First Times",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/First%20Times.mp3",
-                "image": "https://i1.sndcdn.com/artworks-JAwIi4zHAsp52ObN-B2pBog-t500x500.jpg",
-                "artist": "Ed Sheeran",
-                "album": "=",
-                "theme": "Romantic",
-                "language": "English"
-              },
-              {
-                "id": "song_0387",
-                "title": "How Would You Feel (Paean)",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/How%20Would%20You%20Feel%20(Paean).mp3",
-                "image": "https://images.genius.com/50f87466853dae08f8d360d1b43fe253.960x960x1.jpg",
-                "artist": "Ed Sheeran",
-                "album": "÷ (Divide)",
-                "theme": "Love",
-                "language": "English"
-              },
-              {
-                "id": "song_0388",
-                "title": "Life Goes On",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Life%20Goes%20On.mp3",
-                "image": "https://i1.sndcdn.com/artworks-IhoWRT20gXNC-0-t500x500.jpg",
-                "artist": "Ed Sheeran",
-                "album": "- (Subtract)",
-                "theme": "Healing",
-                "language": "English"
-              },
-              {
-                "id": "song_0389",
-                "title": "Love In Slow Motion",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Love%20In%20Slow%20Motion.mp3",
-                "image": "https://i1.sndcdn.com/artworks-1uAtgcDQBx2YUdRx-gyo1mA-t500x500.jpg",
-                "artist": "Ed Sheeran",
-                "album": "=",
-                "theme": "Romantic",
-                "language": "English"
-              },
-              {
-                "id": "song_0390",
-                "title": "Magical",
-                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Magical.mp3",
-                "image": "https://i1.sndcdn.com/artworks-YIHqbYWKsHGf-0-t500x500.jpg",
-                "artist": "Ed Sheeran",
-                "album": "Autumn Variations",
-                "theme": "Dreamy",
-                "language": "English"
-              },
-                {
-                  "id": "song_0391",
-                  "title": "No Strings",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/No%20Strings.mp3",
-                  "image": "https://i1.sndcdn.com/artworks-vCxrM8RYkoBh-0-t500x500.jpg",
-                  "artist": "Ed Sheeran",
-                  "album": "- (Subtract)",
-                  "theme": "Letting Go",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0392",
-                  "title": "Old Phone",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Old%20Phone.mp3",
-                  "image": "https://atwoodmagazine.com/wp-content/uploads/2025/05/Ed-Sheeran-by-Petros-Studio-2a-1170x780.jpg",
-                  "artist": "Ed Sheeran",
-                  "album": "Autumn Variations",
-                  "theme": "Nostalgia",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0393",
-                  "title": "Overpass Graffiti",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Overpass%20Graffiti.mp3",
-                  "image": "https://i1.sndcdn.com/artworks-2wwgLyhxEMxhCYHh-gByp6w-t500x500.jpg",
-                  "artist": "Ed Sheeran",
-                  "album": "=",
-                  "theme": "Breakup",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0394",
-                  "title": "Peru",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Peru.mp3",
-                  "image": "https://i1.sndcdn.com/artworks-WunTMDPzFJmPbM1Y-yqhTgw-t500x500.jpg",
-                  "artist": "Fireboy DML ft. Ed Sheeran",
-                  "album": "Peru (Remix)",
-                  "theme": "Romantic",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0395",
-                  "title": "Salt Water",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Salt%20Water.mp3",
-                  "image": "https://i1.sndcdn.com/artworks-vvHQ7oG6jwW3-0-t500x500.jpg",
-                  "artist": "Ed Sheeran",
-                  "album": "- (Subtract)",
-                  "theme": "Melancholy",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0396",
-                  "title": "Sapphire",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Sapphire.mp3",
-                  "image": "https://i1.sndcdn.com/artworks-is5KqRGzMucJ0r8t-zexY8g-t500x500.png",
-                  "artist": "Ed Sheeran",
-                  "album": "Autumn Variations",
-                  "theme": "Hopeful",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0397",
-                  "title": "Shivers",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Shivers.mp3",
-                  "image": "https://i1.sndcdn.com/artworks-rVSO2PnxKETyFEyL-IwFgXQ-t500x500.jpg",
-                  "artist": "Ed Sheeran",
-                  "album": "=",
-                  "theme": "Love",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0398",
-                  "title": "Sing",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Sing.mp3",
-                  "image": "https://i1.sndcdn.com/artworks-000107150015-o32imc-t500x500.jpg",
-                  "artist": "Ed Sheeran",
-                  "album": "x (Multiply)",
-                  "theme": "Energetic",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0399",
-                  "title": "Small Bump",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Small%20Bump.mp3",
-                  "image": "https://i1.sndcdn.com/artworks-000026709626-dsj370-t500x500.jpg",
-                  "artist": "Ed Sheeran",
-                  "album": "+ (Plus)",
-                  "theme": "Emotional",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0400",
-                  "title": "Spark",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Spark.mp3",
-                  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ed_Sheeran_%288508826072%29.jpg",
-                  "artist": "Ed Sheeran",
-                  "album": "- (Subtract)",
-                  "theme": "Inspiration",
-                  "language": "English"
-                },
-                {
-                  "id": "song_0401",
-                  "title": "Sycamore",
-                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Sycamore.mp3",
-                  "image": "https://i1.sndcdn.com/artworks-InYVjckPJeMR-0-t500x500.jpg",
-                  "artist": "Ed Sheeran",
-                  "album": "- (Subtract)",
-                  "theme": "Vulnerability",
-                  "language": "English"
-                },
-                  {
-                    "id": "song_0402",
-                    "title": "Tenerife Sea",
-                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Tenerife%20Sea.mp3",
-                    "image": "https://i1.sndcdn.com/artworks-000173055695-sbxx7c-t500x500.jpg",
-                    "artist": "Ed Sheeran",
-                    "album": "x (Multiply)",
-                    "theme": "Romantic",
-                    "language": "English"
-                  },
-                  {
-                    "id": "song_0403",
-                    "title": "The Hills of Aberfeldy",
-                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/The%20Hills%20of%20Aberfeldy.mp3",
-                    "image": "https://m.media-amazon.com/images/M/MV5BMTFkNDc1ZjktY2M2Yy00MTRhLThiYzQtYmI5ODk5NTBmZWVmXkEyXkFqcGc@._V1_QL75_UY190_CR74,0,190,190_.jpg",
-                    "artist": "Ed Sheeran",
-                    "album": "- (Subtract)",
-                    "theme": "Folklore",
-                    "language": "English"
-                  },
-                  {
-                    "id": "song_0404",
-                    "title": "The Joker And The Queen (feat. Taylor Swift)",
-                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/The%20Joker%20And%20The%20Queen%20(feat.%20Taylor%20Swift).mp3",
-                    "image": "https://i1.sndcdn.com/artworks-h882BMzgGKMPDrjH-N5vWuA-t500x500.jpg",
-                    "artist": "Ed Sheeran ft. Taylor Swift",
-                    "album": "=",
-                    "theme": "Love",
-                    "language": "English"
-                  },
-                  {
-                    "id": "song_0405",
-                    "title": "Vega",
-                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Vega.mp3",
-                    "image": "https://i1.sndcdn.com/artworks-bfUKtOTTNrZG-0-t500x500.jpg",
-                    "artist": "Ed Sheeran",
-                    "album": "- (Subtract)",
-                    "theme": "Hope",
-                    "language": "English"
-                  },
-                  {
-                    "id": "song_0406",
-                    "title": "Visiting Hours",
-                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Visiting%20Hours.mp3",
-                    "image": "https://i1.sndcdn.com/artworks-KAyC71NeTtuItNDn-ePPWzg-t500x500.jpg",
-                    "artist": "Ed Sheeran",
-                    "album": "=",
-                    "theme": "Grief",
-                    "language": "English"
-                  },
-                  {
-                    "id": "song_0407",
-                    "title": "Wildflowers - Bonus Track",
-                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Wildflowers%20-%20Bonus%20Track.mp3",
-                    "image": "https://i1.sndcdn.com/artworks-3g62GW7Jgqwj-0-t500x500.jpg",
-                    "artist": "Ed Sheeran",
-                    "album": "Autumn Variations",
-                    "theme": "Healing",
-                    "language": "English"
-                  }
-      ]
+      {
+        "id": "song_0366",
+        "title": "2step (feat. Lil Baby)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/2step%20(feat.%20Lil%20Baby).mp3",
+        "image": "https://c.saavncdn.com/531/2step-feat-Armaan-Malik-English-2022-20220601144934-500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Ed Sheeran",
+        "theme": "Pop",
+        "language": "English"
+      },
+      {
+        "id": "song_0367",
+        "title": "Afterglow",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Afterglow.mp3",
+        "image": "https://i1.sndcdn.com/artworks-hjt7Xpq49fhUQHw7-sGfbfQ-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Ed Sheeran",
+        "theme": "Romantic",
+        "language": "English"
+      },
+      {
+        "id": "song_0368",
+        "title": "All of the Stars",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/All%20of%20the%20Stars.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000657949456-qqtusi-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Ed Sheeran",
+        "theme": "Emotional",
+        "language": "English"
+      },
+      {
+        "id": "song_0369",
+        "title": "Azizam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Azizam.mp3",
+        "image": "https://f4.bcbits.com/img/a2852750655_2.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Ed Sheeran",
+        "theme": "World Music",
+        "language": "English"
+      },
+      {
+        "id": "song_0370",
+        "title": "Bad Habits",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Bad%20Habits.mp3",
+        "image": "https://i1.sndcdn.com/artworks-jR8h9bjTa4zSbVzy-KnLCXw-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Ed Sheeran",
+        "theme": "Pop",
+        "language": "English"
+      },
+      {
+        "id": "song_0371",
+        "title": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Bam%20Bam%20(feat.%20Ed%20Sheeran).mp3",
+        "image": "https://i1.sndcdn.com/artworks-Hk4MGXuDUMCyrIGr-Bfzk3A-t500x500.jpg",
+        "artist": "Camila Cabello, Ed Sheeran",
+        "album": "Ed Sheeran",
+        "theme": "Dance Pop",
+        "language": "English"
+      },
+      {
+        "id": "song_0372",
+        "title": "Barcelona",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Barcelona.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000238151091-es3may-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Ed Sheeran",
+        "theme": "Tropical",
+        "language": "English"
+      },
+      {
+        "id": "song_0373",
+        "title": "Bloodstream",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Bloodstream.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000441405861-rd8aue-t1080x1080.jpg",
+        "artist": "Ed Sheeran",
+        "album": "× (Multiply)",
+        "theme": "Emotional",
+        "language": "English"
+      },
+      {
+        "id": "song_0374",
+        "title": "Blue",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Blue.mp3",
+        "image": "https://stanforddaily.com/wp-content/uploads/2017/01/ed-sheeran.jpeg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Melancholic",
+        "language": "English"
+      },
+      {
+        "id": "song_0375",
+        "title": "Boat",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Boat.mp3",
+        "image": "https://images.genius.com/623496a1a9096d1a746cbc73844ea3a5.1000x1000x1.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Sad",
+        "language": "English"
+      },
+      {
+        "id": "song_0376",
+        "title": "Borderline",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Borderline.mp3",
+        "image": "https://ih1.redbubble.net/image.5012910959.9788/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Loneliness",
+        "language": "English"
+      },
+      {
+        "id": "song_0377",
+        "title": "Celestial",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Celestial.mp3",
+        "image": "https://i1.sndcdn.com/artworks-H9p3L3C0bLtvyz6S-NISOzg-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Celestial (Pokémon Collaboration)",
+        "theme": "Inspiring",
+        "language": "English"
+      },
+      {
+        "id": "song_0378",
+        "title": "Collide",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Collide.mp3",
+        "image": "https://i1.sndcdn.com/artworks-cnN46Jc24BdM-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "=",
+        "theme": "Romantic",
+        "language": "English"
+      },
+      {
+        "id": "song_0379",
+        "title": "Colourblind",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Colourblind.mp3",
+        "image": "https://i1.sndcdn.com/artworks-PC1ie9eq32j6-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0380",
+        "title": "Curtains",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Curtains.mp3",
+        "image": "https://images.genius.com/623496a1a9096d1a746cbc73844ea3a5.1000x1000x1.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Reflective",
+        "language": "English"
+      },
+      {
+        "id": "song_0381",
+        "title": "Drive (From F1® The Movie)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Drive%20(From%20F1%C2%AE%20The%20Movie).mp3",
+        "image": "https://i1.sndcdn.com/artworks-REWBW3q3Pv1kWzBA-l9p9ag-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Drive OST",
+        "theme": "Energetic",
+        "language": "English"
+      },
+      {
+        "id": "song_0382",
+        "title": "Dusty",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Dusty.mp3",
+        "image": "https://i1.sndcdn.com/artworks-ZnTARvK3GnXW-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Nostalgic",
+        "language": "English"
+      },
+      {
+        "id": "song_0383",
+        "title": "End Of Youth",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/End%20Of%20Youth.mp3",
+        "image": "https://i1.sndcdn.com/artworks-ZnTARvK3GnXW-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Emotional",
+        "language": "English"
+      },
+      {
+        "id": "song_0384",
+        "title": "Eyes Closed",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Eyes%20Closed.mp3",
+        "image": "https://i1.sndcdn.com/artworks-Mo9bs5PUMYzdlHc2-9WFvDA-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Loss",
+        "language": "English"
+      },
+      {
+        "id": "song_0385",
+        "title": "F64",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/F64.mp3",
+        "image": "https://notjustok.com/wp-content/uploads/2022/02/E8235A08-98EE-4283-9D7D-6C633B86CD19.jpeg",
+        "artist": "Ed Sheeran",
+        "album": "F64",
+        "theme": "Tribute",
+        "language": "English"
+      },
+      {
+        "id": "song_0386",
+        "title": "First Times",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/First%20Times.mp3",
+        "image": "https://i1.sndcdn.com/artworks-JAwIi4zHAsp52ObN-B2pBog-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "=",
+        "theme": "Romantic",
+        "language": "English"
+      },
+      {
+        "id": "song_0387",
+        "title": "How Would You Feel (Paean)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/How%20Would%20You%20Feel%20(Paean).mp3",
+        "image": "https://images.genius.com/50f87466853dae08f8d360d1b43fe253.960x960x1.jpg",
+        "artist": "Ed Sheeran",
+        "album": "÷ (Divide)",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0388",
+        "title": "Life Goes On",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Life%20Goes%20On.mp3",
+        "image": "https://i1.sndcdn.com/artworks-IhoWRT20gXNC-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Healing",
+        "language": "English"
+      },
+      {
+        "id": "song_0389",
+        "title": "Love In Slow Motion",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Love%20In%20Slow%20Motion.mp3",
+        "image": "https://i1.sndcdn.com/artworks-1uAtgcDQBx2YUdRx-gyo1mA-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "=",
+        "theme": "Romantic",
+        "language": "English"
+      },
+      {
+        "id": "song_0390",
+        "title": "Magical",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Magical.mp3",
+        "image": "https://i1.sndcdn.com/artworks-YIHqbYWKsHGf-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Autumn Variations",
+        "theme": "Dreamy",
+        "language": "English"
+      },
+      {
+        "id": "song_0391",
+        "title": "No Strings",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/No%20Strings.mp3",
+        "image": "https://i1.sndcdn.com/artworks-vCxrM8RYkoBh-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Letting Go",
+        "language": "English"
+      },
+      {
+        "id": "song_0392",
+        "title": "Old Phone",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Old%20Phone.mp3",
+        "image": "https://atwoodmagazine.com/wp-content/uploads/2025/05/Ed-Sheeran-by-Petros-Studio-2a-1170x780.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Autumn Variations",
+        "theme": "Nostalgia",
+        "language": "English"
+      },
+      {
+        "id": "song_0393",
+        "title": "Overpass Graffiti",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Overpass%20Graffiti.mp3",
+        "image": "https://i1.sndcdn.com/artworks-2wwgLyhxEMxhCYHh-gByp6w-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "=",
+        "theme": "Breakup",
+        "language": "English"
+      },
+      {
+        "id": "song_0394",
+        "title": "Peru",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Peru.mp3",
+        "image": "https://i1.sndcdn.com/artworks-WunTMDPzFJmPbM1Y-yqhTgw-t500x500.jpg",
+        "artist": "Fireboy DML ft. Ed Sheeran",
+        "album": "Peru (Remix)",
+        "theme": "Romantic",
+        "language": "English"
+      },
+      {
+        "id": "song_0395",
+        "title": "Salt Water",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Salt%20Water.mp3",
+        "image": "https://i1.sndcdn.com/artworks-vvHQ7oG6jwW3-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Melancholy",
+        "language": "English"
+      },
+      {
+        "id": "song_0396",
+        "title": "Sapphire",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Sapphire.mp3",
+        "image": "https://i1.sndcdn.com/artworks-is5KqRGzMucJ0r8t-zexY8g-t500x500.png",
+        "artist": "Ed Sheeran",
+        "album": "Autumn Variations",
+        "theme": "Hopeful",
+        "language": "English"
+      },
+      {
+        "id": "song_0397",
+        "title": "Shivers",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Shivers.mp3",
+        "image": "https://i1.sndcdn.com/artworks-rVSO2PnxKETyFEyL-IwFgXQ-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "=",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0398",
+        "title": "Sing",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Sing.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000107150015-o32imc-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "x (Multiply)",
+        "theme": "Energetic",
+        "language": "English"
+      },
+      {
+        "id": "song_0399",
+        "title": "Small Bump",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Small%20Bump.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000026709626-dsj370-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "+ (Plus)",
+        "theme": "Emotional",
+        "language": "English"
+      },
+      {
+        "id": "song_0400",
+        "title": "Spark",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Spark.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ed_Sheeran_%288508826072%29.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Inspiration",
+        "language": "English"
+      },
+      {
+        "id": "song_0401",
+        "title": "Sycamore",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Sycamore.mp3",
+        "image": "https://i1.sndcdn.com/artworks-InYVjckPJeMR-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Vulnerability",
+        "language": "English"
+      },
+      {
+        "id": "song_0402",
+        "title": "Tenerife Sea",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Tenerife%20Sea.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000173055695-sbxx7c-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "x (Multiply)",
+        "theme": "Romantic",
+        "language": "English"
+      },
+      {
+        "id": "song_0403",
+        "title": "The Hills of Aberfeldy",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/The%20Hills%20of%20Aberfeldy.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTFkNDc1ZjktY2M2Yy00MTRhLThiYzQtYmI5ODk5NTBmZWVmXkEyXkFqcGc@._V1_QL75_UY190_CR74,0,190,190_.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Folklore",
+        "language": "English"
+      },
+      {
+        "id": "song_0404",
+        "title": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/The%20Joker%20And%20The%20Queen%20(feat.%20Taylor%20Swift).mp3",
+        "image": "https://i1.sndcdn.com/artworks-h882BMzgGKMPDrjH-N5vWuA-t500x500.jpg",
+        "artist": "Ed Sheeran ft. Taylor Swift",
+        "album": "=",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0405",
+        "title": "Vega",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Vega.mp3",
+        "image": "https://i1.sndcdn.com/artworks-bfUKtOTTNrZG-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "- (Subtract)",
+        "theme": "Hope",
+        "language": "English"
+      },
+      {
+        "id": "song_0406",
+        "title": "Visiting Hours",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Visiting%20Hours.mp3",
+        "image": "https://i1.sndcdn.com/artworks-KAyC71NeTtuItNDn-ePPWzg-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "=",
+        "theme": "Grief",
+        "language": "English"
+      },
+      {
+        "id": "song_0407",
+        "title": "Wildflowers - Bonus Track",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Wildflowers%20-%20Bonus%20Track.mp3",
+        "image": "https://i1.sndcdn.com/artworks-3g62GW7Jgqwj-0-t500x500.jpg",
+        "artist": "Ed Sheeran",
+        "album": "Autumn Variations",
+        "theme": "Healing",
+        "language": "English"
+      }
+    ]
+  },
+  {
+    "title": "Coldplay",
+    "image": "https://mb.cision.com/Public/16699/3560734/a71843662ff4b133_800x800ar.jpg",
+    "songs": [
+      {
+        "id": "song_0408",
+        "title": "A Head Full of Dreams",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/A%20Head%20Full%20of%20Dreams.mp3",
+        "image": "https://m.media-amazon.com/images/I/A1p7bWyAvmL._UF894,1000_QL80_.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Inspiration",
+        "language": "English"
+      },
+      {
+        "id": "song_0409",
+        "title": "A Message",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/A%20Message.mp3",
+        "image": "https://images.genius.com/4d9c50db82dd7bf62517b40b5cded6f8.500x500x1.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Hope",
+        "language": "English"
+      },
+      {
+        "id": "song_0410",
+        "title": "A Sky Full of Stars",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/A%20Sky%20Full%20of%20Stars.mp3",
+        "image": "https://i1.sndcdn.com/artworks-oIeUGzWW9ZauJtHl-oRlFDA-t1080x1080.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0411",
+        "title": "Adventure of a Lifetime",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Adventure%20of%20a%20Lifetime.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000147584833-74pylr-t1080x1080.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Adventure",
+        "language": "English"
+      },
+      {
+        "id": "song_0412",
+        "title": "All Your Friends",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/All%20Your%20Friends.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000208323236-l1982c-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Friendship",
+        "language": "English"
+      },
+      {
+        "id": "song_0413",
+        "title": "Always in My Head",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Always%20in%20My%20Head.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000136278933-pyk391-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0414",
+        "title": "Amazing Day",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Amazing%20Day.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000197217505-jb8ptb-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Joy",
+        "language": "English"
+      },
+      {
+        "id": "song_0415",
+        "title": "Birds",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Birds.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000160057895-p4hf13-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Freedom",
+        "language": "English"
+      },
+      {
+        "id": "song_0416",
+        "title": "Charlie Brown",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Charlie%20Brown.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000055891539-50jrrj-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Rebellion",
+        "language": "English"
+      },
+      {
+        "id": "song_0417",
+        "title": "Clocks",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Clocks.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000134891393-zz8pr5-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Time",
+        "language": "English"
+      },
+      {
+        "id": "song_0418",
+        "title": "Crests of Waves",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Crests%20of%20Waves.mp3",
+        "image": "https://i1.sndcdn.com/artworks-HjJr5XJbNPRo-0-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Emotion",
+        "language": "English"
+      },
+      {
+        "id": "song_0419",
+        "title": "Everglow",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Everglow.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000273466703-0qcaa0-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Gratitude",
+        "language": "English"
+      },
+      {
+        "id": "song_0420",
+        "title": "Every Teardrop Is a Waterfall",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Every%20Teardrop%20Is%20a%20Waterfall.mp3",
+        "image": "https://i1.sndcdn.com/artworks-62VSVyxXFyt8Ju8q-yIatvA-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay",
+        "theme": "Overcoming",
+        "language": "English"
+      },
+      {
+        "id": "song_0421",
+        "title": "Fix You",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Fix%20You.mp3",
+        "image": "https://i1.sndcdn.com/artworks-TVPbgFwShM9A7Dgb-MujuWQ-t1080x1080.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0422",
+        "title": "For You",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/For%20You.mp3",
+        "image": "https://www.coldplay.com/wp/wp-content/uploads/2015/11/art_shiver.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0423",
+        "title": "Fun (feat. Tove Lo)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Fun%20(feat.%20Tove%20Lo).mp3",
+        "image": "https://i1.sndcdn.com/artworks-000202446615-zc0erk-t500x500.jpg",
+        "artist": "Coldplay, Tove Lo",
+        "album": "Coldplay Collection",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0424",
+        "title": "Ghost Story",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Ghost%20Story.mp3",
+        "image": "https://m.media-amazon.com/images/I/81Qsqw+lbwL._UF1000,1000_QL80_.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Emotional",
+        "language": "English"
+      },
+      {
+        "id": "song_0425",
+        "title": "Gravity",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Gravity.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000249647329-mc87fy-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Emotional",
+        "language": "English"
+      },
+      {
+        "id": "song_0426",
+        "title": "Help Is Round the Corner",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Help%20Is%20Round%20the%20Corner.mp3",
+        "image": "https://cdn-images.dzcdn.net/images/cover/b82b103f05306236134d4d36094c845e/0x1900-000000-80-0-0.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Hope",
+        "language": "English"
+      },
+      {
+        "id": "song_0427",
+        "title": "Higher Power",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Higher%20Power.mp3",
+        "image": "https://i1.sndcdn.com/artworks-IQJWdz3S9GyS9p98-4vIy6Q-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Pop",
+        "language": "English"
+      },
+      {
+        "id": "song_0428",
+        "title": "Hymn for the Weekend",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Hymn%20for%20the%20Weekend.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000199349514-5cja5t-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Energy",
+        "language": "English"
+      },
+      {
+        "id": "song_0429",
+        "title": "Hypnotised - EP Mix",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Hypnotised%20-%20EP%20Mix.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000210505317-m7su9r-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Chill",
+        "language": "English"
+      },
+      {
+        "id": "song_0430",
+        "title": "In My Place",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/In%20My%20Place.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000133990064-ztdebu-t1080x1080.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Regret",
+        "language": "English"
+      },
+      {
+        "id": "song_0431",
+        "title": "Ink",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Ink.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000097657815-1td7v2-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0432",
+        "title": "Magic",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Magic.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000075613850-6b57t9-t1080x1080.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0433",
+        "title": "Miracles",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Miracles.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDVkYzg5OTAtZWM4Mi00ZjY4LWE5NGItZDA1ODhmMDg3NmQyXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Inspiration",
+        "language": "English"
+      },
+      {
+        "id": "song_0434",
+        "title": "No More Keeping My Feet on the Ground",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/No%20More%20Keeping%20My%20Feet%20on%20the%20Ground.mp3",
+        "image": "https://images.genius.com/d60b07b5a8ad358f883bb259b33a7c0d.1000x1000x1.png",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Freedom",
+        "language": "English"
+      },
+      {
+        "id": "song_0435",
+        "title": "O",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/O.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000439341795-a56kar-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Calm",
+        "language": "English"
+      },
+      {
+        "id": "song_0436",
+        "title": "Orphans",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Orphans.mp3",
+        "image": "https://i1.sndcdn.com/artworks-aAiBySp2ZZ7HhM9t-LtmLwA-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Hope",
+        "language": "English"
+      },
+      {
+        "id": "song_0437",
+        "title": "Paradise",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Paradise.mp3",
+        "image": "https://i.pinimg.com/736x/b3/01/45/b30145156f293c48929cfea2797ec2cf.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Dream",
+        "language": "English"
+      },
+      {
+        "id": "song_0438",
+        "title": "People of The Pride",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/People%20of%20The%20Pride.mp3",
+        "image": "https://i1.sndcdn.com/artworks-klWzXCswdyCXbHPV-fZ2gWg-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Rebellion",
+        "language": "English"
+      },
+      {
+        "id": "song_0439",
+        "title": "Politik",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Politik.mp3",
+        "image": "https://i1.sndcdn.com/artworks-CYVyoJuUyMw4iROd-JNlXag-t1080x1080.png",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Society",
+        "language": "English"
+      },
+      {
+        "id": "song_0440",
+        "title": "See You Soon",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/See%20You%20Soon.mp3",
+        "image": "https://i1.sndcdn.com/artworks-RS9alSxaow0ltXqz-JvuGjw-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Goodbye",
+        "language": "English"
+      },
+      {
+        "id": "song_0441",
+        "title": "Speed of Sound",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Speed%20of%20Sound.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000098190501-a1amyr-t1080x1080.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Wonder",
+        "language": "English"
+      },
+      {
+        "id": "song_0442",
+        "title": "The Hardest Part",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/The%20Hardest%20Part.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000049654450-jv0dox-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Breakup",
+        "language": "English"
+      },
+      {
+        "id": "song_0443",
+        "title": "The Scientist",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/The%20Scientist.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Coldplay_-_The_Scientist.png",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Regret",
+        "language": "English"
+      },
+      {
+        "id": "song_0444",
+        "title": "The World Turned Upside Down",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/The%20World%20Turned%20Upside%20Down.mp3",
+        "image": "https://i1.sndcdn.com/artworks-gdwaELmaVTque8p5-Py7EbQ-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Change",
+        "language": "English"
+      },
+      {
+        "id": "song_0445",
+        "title": "Things I Don't Understand",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Things%20I%20Don't%20Understand.mp3",
+        "image": "https://m.media-amazon.com/images/I/51UdZ6Bd2DL._UF894,1000_QL80_.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Reflection",
+        "language": "English"
+      },
+      {
+        "id": "song_0446",
+        "title": "Trouble",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Trouble.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000062067738-v5jn8f-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Conflict",
+        "language": "English"
+      },
+      {
+        "id": "song_0447",
+        "title": "True Love",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/True%20Love.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000082800849-lov4jp-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Romance",
+        "language": "English"
+      },
+      {
+        "id": "song_0448",
+        "title": "Up&Up",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Up&Up.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000163573248-zab887-t500x500.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Uplifting",
+        "language": "English"
+      },
+      {
+        "id": "song_0449",
+        "title": "Viva La Vida",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Viva%20La%20Vida.mp3",
+        "image": "https://m.media-amazon.com/images/I/91BgHwJwdOL._UF1000,1000_QL80_.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Revolution",
+        "language": "English"
+      },
+      {
+        "id": "song_0450",
+        "title": "Yellow",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/ColdPlay/Yellow.mp3",
+        "image": "https://f4.bcbits.com/img/a1787010432_16.jpg",
+        "artist": "Coldplay",
+        "album": "Coldplay Collection",
+        "theme": "Love",
+        "language": "English"
+      }
+    ]
   }
   
 ]
