@@ -3536,8 +3536,428 @@
         "album": "Ed Sheeran",
         "theme": "Boost",
         "language": "English"
-      }
-    ]
+      },
+        {
+          "id": "song_0366",
+          "title": "2step (feat. Lil Baby)",
+          "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/2step%20(feat.%20Lil%20Baby).mp3",
+          "image": "https://i.ytimg.com/vi/eA4AR2M3K3U/sddefault.jpg",
+          "artist": "Ed Sheeran",
+          "album": "Ed Sheeran",
+          "theme": "Pop",
+          "language": "English"
+        },
+        {
+          "id": "song_0367",
+          "title": "Afterglow",
+          "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Afterglow.mp3",
+          "image": "https://i.ytimg.com/vi/_NGQfFCFUn4/sddefault.jpg",
+          "artist": "Ed Sheeran",
+          "album": "Ed Sheeran",
+          "theme": "Romantic",
+          "language": "English"
+        },
+        {
+          "id": "song_0368",
+          "title": "All of the Stars",
+          "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/All%20of%20the%20Stars.mp3",
+          "image": "https://i.ytimg.com/vi/nkqVm5aiC28/sddefault.jpg",
+          "artist": "Ed Sheeran",
+          "album": "Ed Sheeran",
+          "theme": "Emotional",
+          "language": "English"
+        },
+          {
+            "id": "song_0369",
+            "title": "Azizam",
+            "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Azizam.mp3",
+            "image": "https://i.ytimg.com/vi/3cYX8L98lc4/sddefault.jpg",
+            "artist": "Ed Sheeran",
+            "album": "Ed Sheeran",
+            "theme": "World Music",
+            "language": "English"
+          },
+          {
+            "id": "song_0370",
+            "title": "Bad Habits",
+            "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Bad%20Habits.mp3",
+            "image": "https://i.ytimg.com/vi/orJSJGHjBLI/sddefault.jpg",
+            "artist": "Ed Sheeran",
+            "album": "Ed Sheeran",
+            "theme": "Pop",
+            "language": "English"
+          },
+          {
+            "id": "song_0371",
+            "title": "Bam Bam (feat. Ed Sheeran)",
+            "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Bam%20Bam%20(feat.%20Ed%20Sheeran).mp3",
+            "image": "https://i.ytimg.com/vi/AE7Tt3gw8Aw/sddefault.jpg",
+            "artist": "Camila Cabello, Ed Sheeran",
+            "album": "Ed Sheeran",
+            "theme": "Dance Pop",
+            "language": "English"
+          },
+          {
+            "id": "song_0372",
+            "title": "Barcelona",
+            "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Barcelona.mp3",
+            "image": "https://i.ytimg.com/vi/_2j5phyd9K8/sddefault.jpg",
+            "artist": "Ed Sheeran",
+            "album": "Ed Sheeran",
+            "theme": "Tropical",
+            "language": "English"
+          },
+            {
+              "id": "song_0373",
+              "title": "Bloodstream",
+              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Bloodstream.mp3",
+              "image": "https://i.ytimg.com/vi/MWibqkHZK6E/sddefault.jpg",
+              "artist": "Ed Sheeran",
+              "album": "× (Multiply)",
+              "theme": "Emotional",
+              "language": "English"
+            },
+            {
+              "id": "song_0374",
+              "title": "Blue",
+              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Blue.mp3",
+              "image": "https://i.ytimg.com/vi/YeRZxqg5RXQ/sddefault.jpg",
+              "artist": "Ed Sheeran",
+              "album": "- (Subtract)",
+              "theme": "Melancholic",
+              "language": "English"
+            },
+            {
+              "id": "song_0375",
+              "title": "Boat",
+              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Boat.mp3",
+              "image": "https://i.ytimg.com/vi/nP_HzS5XG6M/sddefault.jpg",
+              "artist": "Ed Sheeran",
+              "album": "- (Subtract)",
+              "theme": "Sad",
+              "language": "English"
+            },
+            {
+              "id": "song_0376",
+              "title": "Borderline",
+              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Borderline.mp3",
+              "image": "https://i.ytimg.com/vi/FSQjcXBUpgI/sddefault.jpg",
+              "artist": "Ed Sheeran",
+              "album": "- (Subtract)",
+              "theme": "Loneliness",
+              "language": "English"
+            },
+            {
+              "id": "song_0377",
+              "title": "Celestial",
+              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Celestial.mp3",
+              "image": "https://i.ytimg.com/vi/23g5HBOg3Ic/sddefault.jpg",
+              "artist": "Ed Sheeran",
+              "album": "Celestial (Pokémon Collaboration)",
+              "theme": "Inspiring",
+              "language": "English"
+            },
+            {
+              "id": "song_0378",
+              "title": "Collide",
+              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Collide.mp3",
+              "image": "https://i.ytimg.com/vi/pTg1vmbz1tU/sddefault.jpg",
+              "artist": "Ed Sheeran",
+              "album": "=",
+              "theme": "Romantic",
+              "language": "English"
+            },
+            {
+              "id": "song_0379",
+              "title": "Colourblind",
+              "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Colourblind.mp3",
+              "image": "https://i.ytimg.com/vi/RIugG66Gz9Q/sddefault.jpg",
+              "artist": "Ed Sheeran",
+              "album": "- (Subtract)",
+              "theme": "Love",
+              "language": "English"
+            },
+              {
+                "id": "song_0380",
+                "title": "Curtains",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Curtains.mp3",
+                "image": "https://i.ytimg.com/vi/RUP4dCucVnY/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "- (Subtract)",
+                "theme": "Reflective",
+                "language": "English"
+              },
+              {
+                "id": "song_0381",
+                "title": "Drive (From F1® The Movie)",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Drive%20(From%20F1%C2%AE%20The%20Movie).mp3",
+                "image": "https://i.ytimg.com/vi/oOmjL7zOe7s/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "Drive OST",
+                "theme": "Energetic",
+                "language": "English"
+              },
+              {
+                "id": "song_0382",
+                "title": "Dusty",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Dusty.mp3",
+                "image": "https://i.ytimg.com/vi/EyP2WRz5rMg/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "- (Subtract)",
+                "theme": "Nostalgic",
+                "language": "English"
+              },
+              {
+                "id": "song_0383",
+                "title": "End Of Youth",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/End%20Of%20Youth.mp3",
+                "image": "https://i.ytimg.com/vi/5CUuq3zEyfQ/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "- (Subtract)",
+                "theme": "Emotional",
+                "language": "English"
+              },
+              {
+                "id": "song_0384",
+                "title": "Eyes Closed",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Eyes%20Closed.mp3",
+                "image": "https://i.ytimg.com/vi/-C3t4wF1pr0/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "- (Subtract)",
+                "theme": "Loss",
+                "language": "English"
+              },
+              {
+                "id": "song_0385",
+                "title": "F64",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/F64.mp3",
+                "image": "https://i.ytimg.com/vi/VWQqPtzF-DA/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "F64",
+                "theme": "Tribute",
+                "language": "English"
+              },
+              {
+                "id": "song_0386",
+                "title": "First Times",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/First%20Times.mp3",
+                "image": "https://i.ytimg.com/vi/WLiiYx0S2f0/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "=",
+                "theme": "Romantic",
+                "language": "English"
+              },
+              {
+                "id": "song_0387",
+                "title": "How Would You Feel (Paean)",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/How%20Would%20You%20Feel%20(Paean).mp3",
+                "image": "https://i.ytimg.com/vi/CY6eZ7b9v5M/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "÷ (Divide)",
+                "theme": "Love",
+                "language": "English"
+              },
+              {
+                "id": "song_0388",
+                "title": "Life Goes On",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Life%20Goes%20On.mp3",
+                "image": "https://i.ytimg.com/vi/I6xvdgV3B4U/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "- (Subtract)",
+                "theme": "Healing",
+                "language": "English"
+              },
+              {
+                "id": "song_0389",
+                "title": "Love In Slow Motion",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Love%20In%20Slow%20Motion.mp3",
+                "image": "https://i.ytimg.com/vi/NBbdI6M0Njc/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "=",
+                "theme": "Romantic",
+                "language": "English"
+              },
+              {
+                "id": "song_0390",
+                "title": "Magical",
+                "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Magical.mp3",
+                "image": "https://i.ytimg.com/vi/nrwDE8sRb1M/sddefault.jpg",
+                "artist": "Ed Sheeran",
+                "album": "Autumn Variations",
+                "theme": "Dreamy",
+                "language": "English"
+              },
+                {
+                  "id": "song_0391",
+                  "title": "No Strings",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/No%20Strings.mp3",
+                  "image": "https://i.ytimg.com/vi/5pq7AAQUyDk/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "- (Subtract)",
+                  "theme": "Letting Go",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0392",
+                  "title": "Old Phone",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Old%20Phone.mp3",
+                  "image": "https://i.ytimg.com/vi/VT6UIjvU6SA/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "Autumn Variations",
+                  "theme": "Nostalgia",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0393",
+                  "title": "Overpass Graffiti",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Overpass%20Graffiti.mp3",
+                  "image": "https://i.ytimg.com/vi/NqFzCy5pQIM/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "=",
+                  "theme": "Breakup",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0394",
+                  "title": "Peru",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Peru.mp3",
+                  "image": "https://i.ytimg.com/vi/yaqwWAuGq4k/sddefault.jpg",
+                  "artist": "Fireboy DML ft. Ed Sheeran",
+                  "album": "Peru (Remix)",
+                  "theme": "Romantic",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0395",
+                  "title": "Salt Water",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Salt%20Water.mp3",
+                  "image": "https://i.ytimg.com/vi/jgA4N6gG8v8/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "- (Subtract)",
+                  "theme": "Melancholy",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0396",
+                  "title": "Sapphire",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Sapphire.mp3",
+                  "image": "https://i.ytimg.com/vi/_a5Y4NpoOk4/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "Autumn Variations",
+                  "theme": "Hopeful",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0397",
+                  "title": "Shivers",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Shivers.mp3",
+                  "image": "https://i.ytimg.com/vi/Il0S8BoucSA/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "=",
+                  "theme": "Love",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0398",
+                  "title": "Sing",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Sing.mp3",
+                  "image": "https://i.ytimg.com/vi/tlYcUqEPN58/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "x (Multiply)",
+                  "theme": "Energetic",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0399",
+                  "title": "Small Bump",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Small%20Bump.mp3",
+                  "image": "https://i.ytimg.com/vi/A_af256mnTE/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "+ (Plus)",
+                  "theme": "Emotional",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0400",
+                  "title": "Spark",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Spark.mp3",
+                  "image": "https://i.ytimg.com/vi/KIeeG8KnrXg/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "- (Subtract)",
+                  "theme": "Inspiration",
+                  "language": "English"
+                },
+                {
+                  "id": "song_0401",
+                  "title": "Sycamore",
+                  "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Sycamore.mp3",
+                  "image": "https://i.ytimg.com/vi/_oI1FyqxiJQ/sddefault.jpg",
+                  "artist": "Ed Sheeran",
+                  "album": "- (Subtract)",
+                  "theme": "Vulnerability",
+                  "language": "English"
+                },
+                  {
+                    "id": "song_0402",
+                    "title": "Tenerife Sea",
+                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Tenerife%20Sea.mp3",
+                    "image": "https://i.ytimg.com/vi/cyheJ480LYA/sddefault.jpg",
+                    "artist": "Ed Sheeran",
+                    "album": "x (Multiply)",
+                    "theme": "Romantic",
+                    "language": "English"
+                  },
+                  {
+                    "id": "song_0403",
+                    "title": "The Hills of Aberfeldy",
+                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/The%20Hills%20of%20Aberfeldy.mp3",
+                    "image": "https://i.ytimg.com/vi/qjKkuBkYEKY/sddefault.jpg",
+                    "artist": "Ed Sheeran",
+                    "album": "- (Subtract)",
+                    "theme": "Folklore",
+                    "language": "English"
+                  },
+                  {
+                    "id": "song_0404",
+                    "title": "The Joker And The Queen (feat. Taylor Swift)",
+                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/The%20Joker%20And%20The%20Queen%20(feat.%20Taylor%20Swift).mp3",
+                    "image": "https://i.ytimg.com/vi/TWcyIpul8OE/sddefault.jpg",
+                    "artist": "Ed Sheeran ft. Taylor Swift",
+                    "album": "=",
+                    "theme": "Love",
+                    "language": "English"
+                  },
+                  {
+                    "id": "song_0405",
+                    "title": "Vega",
+                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Vega.mp3",
+                    "image": "https://i.ytimg.com/vi/l4_GLDpxn24/sddefault.jpg",
+                    "artist": "Ed Sheeran",
+                    "album": "- (Subtract)",
+                    "theme": "Hope",
+                    "language": "English"
+                  },
+                  {
+                    "id": "song_0406",
+                    "title": "Visiting Hours",
+                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Visiting%20Hours.mp3",
+                    "image": "https://i.ytimg.com/vi/t3CoEyYEf4A/sddefault.jpg",
+                    "artist": "Ed Sheeran",
+                    "album": "=",
+                    "theme": "Grief",
+                    "language": "English"
+                  },
+                  {
+                    "id": "song_0407",
+                    "title": "Wildflowers - Bonus Track",
+                    "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Ed%20Sheeran/Wildflowers%20-%20Bonus%20Track.mp3",
+                    "image": "https://i.ytimg.com/vi/i2reFhCynig/sddefault.jpg",
+                    "artist": "Ed Sheeran",
+                    "album": "Autumn Variations",
+                    "theme": "Healing",
+                    "language": "English"
+                  }
+      ]
   }
   
 ]
