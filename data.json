@@ -3190,6 +3190,1024 @@
     ]
   },
   {
+    "title": "Aalavandhan",
+    "image": "https://c.saavncdn.com/909/Aalavandhan-Tamil-2001-20241022013850-500x500.jpg",
+    "songs": [
+      {
+        "id": "song_0451",
+        "title": "Aalavanthan",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aalavandhan/Aalavanthan-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/909/Aalavandhan-Tamil-2001-20241022013850-500x500.jpg",
+        "artist": "Ilaiyaraaja, S. P. Balasubrahmanyam",
+        "album": "Aalavandhan",
+        "theme": "Action",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0452",
+        "title": "Africa Kattupuli",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aalavandhan/Africa-Kattupuli-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/909/Aalavandhan-Tamil-2001-20241022013850-500x500.jpg",
+        "artist": "Ilaiyaraaja, Swarnalatha",
+        "album": "Aalavandhan",
+        "theme": "Action",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0453",
+        "title": "Kadavul Paathi (Music)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aalavandhan/Kadavul-Paathi-(Music)-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/909/Aalavandhan-Tamil-2001-20241022013850-500x500.jpg",
+        "artist": "Ilaiyaraaja",
+        "album": "Aalavandhan",
+        "theme": "Instrumental",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0454",
+        "title": "Kadavul Paathi Mirugam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aalavandhan/Kadavul-Paathi-Mirugam-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/909/Aalavandhan-Tamil-2001-20241022013850-500x500.jpg",
+        "artist": "Ilaiyaraaja, S. P. Balasubrahmanyam",
+        "album": "Aalavandhan",
+        "theme": "Thriller",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0455",
+        "title": "Siri Siri Siri",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aalavandhan/Siri-Siri-Siri-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/909/Aalavandhan-Tamil-2001-20241022013850-500x500.jpg",
+        "artist": "Ilaiyaraaja, Harini",
+        "album": "Aalavandhan",
+        "theme": "Drama",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0456",
+        "title": "Un Azhagukku Thai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aalavandhan/Un-Azhagukku-Thai-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/909/Aalavandhan-Tamil-2001-20241022013850-500x500.jpgg",
+        "artist": "Ilaiyaraaja, Sadhana Sargam",
+        "album": "Aalavandhan",
+        "theme": "Romance",
+        "language": "Tamil"
+      }
+    ]
+  },  
+  {
+    "title": "Aambala",
+    "image": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/wrb406YabL/size_m.jpg",
+    "songs": [
+      {
+        "id": "song_0457",
+        "title": "Aye Aye Aye",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aambala/Aye-Aye-Aye-MassTamilan.fm.mp3",
+        "image": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/wrb406YabL/size_m.jpg",
+        "artist": "Hiphop Tamizha, Adhi",
+        "album": "Aambala",
+        "theme": "Celebration",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0458",
+        "title": "Madras To Madurai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aambala/Madras-To-Madurai-MassTamilan.fm.mp3",
+        "image": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/wrb406YabL/size_m.jpg",
+        "artist": "Hiphop Tamizha, Senthildass",
+        "album": "Aambala",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0459",
+        "title": "Pazhagikalam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aambala/Pazhagikalam-MassTamilan.fm.mp3",
+        "image": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/wrb406YabL/size_m.jpg",
+        "artist": "Hiphop Tamizha, Hariharan, Kharesma Ravichandran",
+        "album": "Aambala",
+        "theme": "Romance",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0460",
+        "title": "Va Va Va Vannila",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aambala/Va-Va-Va-Vannila-MassTamilan.fm.mp3",
+        "image": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/wrb406YabL/size_m.jpg",
+        "artist": "Hiphop Tamizha, Mohit Chauhan",
+        "album": "Aambala",
+        "theme": "Peppy",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0461",
+        "title": "Yaarenna Sonnalum",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aambala/Yaarenna-Sonnalum-MassTamilan.fm.mp3",
+        "image": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/wrb406YabL/size_m.jpg",
+        "artist": "Hiphop Tamizha, Adhi",
+        "album": "Aambala",
+        "theme": "Attitude",
+        "language": "Tamil"
+      }
+    ]
+  },  
+  {
+    "title": "Aanandham",
+    "image": "https://upload.wikimedia.org/wikipedia/ta/5/50/Anandham.jpg",
+    "songs": [
+      {
+        "id": "song_0462",
+        "title": "Aasai Aasaiyai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aanandham/Aasai-Aasaiyai.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/ta/5/50/Anandham.jpg",
+        "artist": "S.A. Rajkumar, Hariharan",
+        "album": "Aanandham",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0463",
+        "title": "Adi Koochatha",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aanandham/Adi-Koochatha.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/ta/5/50/Anandham.jpg",
+        "artist": "S.A. Rajkumar, Karthik, Sujatha",
+        "album": "Aanandham",
+        "theme": "Duet",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0464",
+        "title": "Enna Ithuvo Enna Idhuvo",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aanandham/Enna-Ithuvo-Enna-Idhuvo.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/ta/5/50/Anandham.jpg",
+        "artist": "S.A. Rajkumar, Unnikrishnan",
+        "album": "Aanandham",
+        "theme": "Emotional",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0465",
+        "title": "Gokulathu Radhai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aanandham/Gokulathu-Radhai.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/ta/5/50/Anandham.jpg",
+        "artist": "S.A. Rajkumar, Harini",
+        "album": "Aanandham",
+        "theme": "Devotional",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0466",
+        "title": "Kalyana Vaanil",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aanandham/Kalyana-Vaanil.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/ta/5/50/Anandham.jpg",
+        "artist": "S.A. Rajkumar, Tippu, Swarnalatha",
+        "album": "Aanandham",
+        "theme": "Wedding",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0467",
+        "title": "Pallankuzhiyin",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aanandham/Pallankuzhiyin.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/ta/5/50/Anandham.jpg",
+        "artist": "S.A. Rajkumar, Sujatha",
+        "album": "Aanandham",
+        "theme": "Family",
+        "language": "Tamil"
+      }
+    ]
+  },  
+  {
+    "title": "Aandavan Kattalai",
+    "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+    "songs": [
+      {
+        "id": "song_0468",
+        "title": "108 Thenga",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aandavan%20Kattalai/108-Thenga.mp3",
+        "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+        "artist": "K, Anthony Daasan",
+        "album": "Aandavan Kattalai",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0469",
+        "title": "Elandha Pazham",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aandavan%20Kattalai/Elandha-Pazham.mp3",
+        "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+        "artist": "K, Pradeep Kumar",
+        "album": "Aandavan Kattalai",
+        "theme": "Humor",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0470",
+        "title": "Gandhi Thatha",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aandavan%20Kattalai/Gandhi-Thatha.mp3",
+        "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+        "artist": "K, Benny Dayal",
+        "album": "Aandavan Kattalai",
+        "theme": "Satire",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0471",
+        "title": "Imsai Rani",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aandavan%20Kattalai/Imsai-Rani.mp3",
+        "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+        "artist": "K, Shweta Mohan",
+        "album": "Aandavan Kattalai",
+        "theme": "Playful",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0472",
+        "title": "Kaarmegakuzhali",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aandavan%20Kattalai/Kaarmegakuzhali.mp3",
+        "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+        "artist": "K, Ananthu",
+        "album": "Aandavan Kattalai",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0473",
+        "title": "Polambing Song",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aandavan%20Kattalai/Polambing-Song.mp3",
+        "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+        "artist": "K, Arunraja Kamaraj",
+        "album": "Aandavan Kattalai",
+        "theme": "Fun",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0474",
+        "title": "Vaadagai Veedu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aandavan%20Kattalai/Vaadagai-Veedu.mp3",
+        "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+        "artist": "K, Sundarayyar",
+        "album": "Aandavan Kattalai",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0475",
+        "title": "Vaazhkai Oru Ottagam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aandavan%20Kattalai/Vaazhkai-Oru-Ottagam.mp3",
+        "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+        "artist": "K, Yazin Nizar",
+        "album": "Aandavan Kattalai",
+        "theme": "Life",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0476",
+        "title": "Yaaro Petha Pillai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aandavan%20Kattalai/Yaaro-Petha-Pillai.mp3",
+        "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
+        "artist": "K, Pradeep Kumar",
+        "album": "Aandavan Kattalai",
+        "theme": "Identity",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Aayirathil Oruvan",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+    "songs": [
+      {
+        "id": "song_0477",
+        "title": "Atho Antha Paravai (Remix)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Atho-Antha-Paravai-Remix.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, Udit Narayan",
+        "album": "Aayirathil Oruvan",
+        "theme": "Remix",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0478",
+        "title": "Celebration of Life",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Celebration-of-Life.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, Tanvi Shah",
+        "album": "Aayirathil Oruvan",
+        "theme": "Instrumental",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0479",
+        "title": "Indha Paadhai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Indha-Paadhai.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, Vijay Yesudas",
+        "album": "Aayirathil Oruvan",
+        "theme": "Journey",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0480",
+        "title": "Maalai Neram",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Maalai-Neram.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, Andrea Jeremiah",
+        "album": "Aayirathil Oruvan",
+        "theme": "Romance",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0481",
+        "title": "Oh Eesa (Mix)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Oh-Eesa-mix.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, Andreah",
+        "album": "Aayirathil Oruvan",
+        "theme": "Fusion",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0482",
+        "title": "Oh Eesa",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Oh-Eesa.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, Andreah",
+        "album": "Aayirathil Oruvan",
+        "theme": "Energetic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0483",
+        "title": "Pemmanae",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Pemmanae.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, G. V. Prakash Kumar",
+        "album": "Aayirathil Oruvan",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0484",
+        "title": "Thaai Thindra Mannae",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Thaai-Thindra-Mannae.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, Bombay Jayashri",
+        "album": "Aayirathil Oruvan",
+        "theme": "Epic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0485",
+        "title": "Thaai Thindra Manne",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Thaai-Thindra-Manne.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, Bombay Jayashri",
+        "album": "Aayirathil Oruvan",
+        "theme": "Classical",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0486",
+        "title": "The King Arrives",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/The-King-Arrives.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar",
+        "album": "Aayirathil Oruvan",
+        "theme": "Theme",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0487",
+        "title": "Un Mela Aasadhaan",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Aayirathil%20Oruvan/Un-Mela-Aasadhaan.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2415e692c9f31847e3fdada5593493a44b5f414475354ed2be161ccf6a5e20f3.jpg",
+        "artist": "G. V. Prakash Kumar, Dhanush",
+        "album": "Aayirathil Oruvan",
+        "theme": "Mass",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Adanga Maru",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/691a45ccc6cbd43a40586154858c674af9555e6bc8e0b539d96ab49dce58a304.jpg",
+    "songs": [
+      {
+        "id": "song_0488",
+        "title": "Aangu Vaangu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adanga%20Maru/Aangu-Vaangu-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/691a45ccc6cbd43a40586154858c674af9555e6bc8e0b539d96ab49dce58a304.jpg",
+        "artist": "Sam C. S., Arivu",
+        "album": "Adanga Maru",
+        "theme": "Mass",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0489",
+        "title": "Kaar Irul",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adanga%20Maru/Kaar-Irul-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/691a45ccc6cbd43a40586154858c674af9555e6bc8e0b539d96ab49dce58a304.jpg",
+        "artist": "Sam C. S., Chinmayi",
+        "album": "Adanga Maru",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0490",
+        "title": "Pachai Dhrogangal",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adanga%20Maru/Pachai-Dhrogangal-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/691a45ccc6cbd43a40586154858c674af9555e6bc8e0b539d96ab49dce58a304.jpg",
+        "artist": "Sam C. S., Sid Sriram",
+        "album": "Adanga Maru",
+        "theme": "Emotional",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0491",
+        "title": "Saayaali",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adanga%20Maru/Saayaali-MassTamilan.com.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/691a45ccc6cbd43a40586154858c674af9555e6bc8e0b539d96ab49dce58a304.jpg",
+        "artist": "Sam C. S., Chinmayi, Haricharan",
+        "album": "Adanga Maru",
+        "theme": "Romantic",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Adithya Varma",
+    "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F046ee52d9f5152ffe97d98dcc24b883b.jpg",
+    "songs": [
+      {
+        "id": "song_0492",
+        "title": "Amudhangalaal",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adithya%20Varma/Amudhangalaal-MassTamilan.org.mp3",
+        "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F046ee52d9f5152ffe97d98dcc24b883b.jpg",
+        "artist": "Radhan, Sid Sriram",
+        "album": "Adithya Varma",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0493",
+        "title": "Dhooram",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adithya%20Varma/Dhooram-MassTamilan.org.mp3",
+        "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F046ee52d9f5152ffe97d98dcc24b883b.jpg",
+        "artist": "Radhan, Shakthisree Gopalan",
+        "album": "Adithya Varma",
+        "theme": "Melancholy",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0494",
+        "title": "Edharkadi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adithya%20Varma/Edharkadi-MassTamilan.org.mp3",
+        "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F046ee52d9f5152ffe97d98dcc24b883b.jpg",
+        "artist": "Radhan, Vijay Yesudas",
+        "album": "Adithya Varma",
+        "theme": "Emotional",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0495",
+        "title": "Idhu Enna Maayamo",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adithya%20Varma/Idhu-Enna-Maayamo-MassTamilan.org.mp3",
+        "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F046ee52d9f5152ffe97d98dcc24b883b.jpg",
+        "artist": "Radhan, Sid Sriram",
+        "album": "Adithya Varma",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0496",
+        "title": "Kanaa",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adithya%20Varma/Kanaa-MassTamilan.org.mp3",
+        "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F046ee52d9f5152ffe97d98dcc24b883b.jpg",
+        "artist": "Radhan, Sid Sriram",
+        "album": "Adithya Varma",
+        "theme": "Dreamy",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0497",
+        "title": "Yaarumillaa",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adithya%20Varma/Yaarumillaa-MassTamilan.org.mp3",
+        "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F046ee52d9f5152ffe97d98dcc24b883b.jpg",
+        "artist": "Radhan, Chinmayi",
+        "album": "Adithya Varma",
+        "theme": "Soulful",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0498",
+        "title": "Yean Ennai Pirindhaai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Adithya%20Varma/Yean-Ennai-Pirindhaai-MassTamilan.org.mp3",
+        "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F046ee52d9f5152ffe97d98dcc24b883b.jpg",
+        "artist": "Radhan, Sid Sriram",
+        "album": "Adithya Varma",
+        "theme": "Breakup",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Airaa",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/f27eede6e932c9747a036386e5153962f8300dced5119110ea9b6e6d90dc77ca.png",
+    "songs": [
+      {
+        "id": "song_0499",
+        "title": "Jinthako",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Airaa/Jinthako-MassTamilan.org.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/f27eede6e932c9747a036386e5153962f8300dced5119110ea9b6e6d90dc77ca.png",
+        "artist": "Sundaramurthy KS, Naresh Iyer",
+        "album": "Airaa",
+        "theme": "Energetic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0500",
+        "title": "Kaariga",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Airaa/Kaariga-MassTamilan.org.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/f27eede6e932c9747a036386e5153962f8300dced5119110ea9b6e6d90dc77ca.png",
+        "artist": "Sundaramurthy KS, Sid Sriram",
+        "album": "Airaa",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0501",
+        "title": "Megathoodham",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Airaa/Megathoodham-MassTamilan.org.mp3",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/f27eede6e932c9747a036386e5153962f8300dced5119110ea9b6e6d90dc77ca.png",
+        "artist": "Sundaramurthy KS, Chinmayi",
+        "album": "Airaa",
+        "theme": "Melancholy",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Amarkalam",
+    "image": "https://i1.sndcdn.com/artworks-lXgKcaZrJhJMLZAo-MWPadQ-t1080x1080.jpg",
+    "songs": [
+      {
+        "id": "song_0502",
+        "title": "En Seidhaayo",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Amarkalam/En-Seidhaayo.mp3",
+        "image": "https://i1.sndcdn.com/artworks-lXgKcaZrJhJMLZAo-MWPadQ-t1080x1080.jpg",
+        "artist": "Bharadwaj, Harini",
+        "album": "Amarkalam",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0503",
+        "title": "Kalam Kalikalam MahaGanapthy",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Amarkalam/Kalam-Kalikalam-MahaGanapthy.mp3",
+        "image": "https://i1.sndcdn.com/artworks-lXgKcaZrJhJMLZAo-MWPadQ-t1080x1080.jpg",
+        "artist": "Bharadwaj, Group Singers",
+        "album": "Amarkalam",
+        "theme": "Devotional",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0504",
+        "title": "Megangal Ennai Thottu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Amarkalam/Megangal-Ennai-Thottu.mp3",
+        "image": "https://i1.sndcdn.com/artworks-lXgKcaZrJhJMLZAo-MWPadQ-t1080x1080.jpg",
+        "artist": "Bharadwaj, Unni Krishnan, Anuradha Sriram",
+        "album": "Amarkalam",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0505",
+        "title": "Satham Illatha Thanimai Ketean",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Amarkalam/Satham-Illatha-Thanimai-Ketean.mp3",
+        "image": "https://i1.sndcdn.com/artworks-lXgKcaZrJhJMLZAo-MWPadQ-t1080x1080.jpg",
+        "artist": "Bharadwaj, SP Balasubrahmanyam",
+        "album": "Amarkalam",
+        "theme": "Sad",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0506",
+        "title": "Sontha Kuralil Paada",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Amarkalam/Sontha-Kuralil-Paada.mp3",
+        "image": "https://i1.sndcdn.com/artworks-lXgKcaZrJhJMLZAo-MWPadQ-t1080x1080.jpg",
+        "artist": "Bharadwaj, Shankar Mahadevan",
+        "album": "Amarkalam",
+        "theme": "Feel Good",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0507",
+        "title": "Unnodu Vaazhatha",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Amarkalam/Unnodu-Vaazhatha.mp3",
+        "image": "https://i1.sndcdn.com/artworks-lXgKcaZrJhJMLZAo-MWPadQ-t1080x1080.jpg",
+        "artist": "Bharadwaj, SP Balasubrahmanyam, Harini",
+        "album": "Amarkalam",
+        "theme": "Melody",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Anbe Sivam",
+    "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10986261_p_v8_aa.jpg",
+    "songs": [
+      {
+        "id": "song_0508",
+        "title": "Anbe Sivam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe%20Sivam/Anbe%20Sivam.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10986261_p_v8_aa.jpg",
+        "artist": "Vidyasagar, Kamal Haasan",
+        "album": "Anbe Sivam",
+        "theme": "Philosophy",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0509",
+        "title": "Ela Machi Machi (Reprise)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe%20Sivam/Ela%20Machi%20Machi%20(Reprise).mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10986261_p_v8_aa.jpg",
+        "artist": "Vidyasagar, Karthik, KK",
+        "album": "Anbe Sivam",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0510",
+        "title": "Ela Machi Machi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe%20Sivam/Ela%20Machi%20Machi.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10986261_p_v8_aa.jpg",
+        "artist": "Vidyasagar, Karthik, KK",
+        "album": "Anbe Sivam",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0511",
+        "title": "Mouname Paarvayai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe%20Sivam/Mouname%20Paarvayai.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10986261_p_v8_aa.jpg",
+        "artist": "Vidyasagar, Sadhana Sargam, Hariharan",
+        "album": "Anbe Sivam",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0512",
+        "title": "Naatukkoru Seithi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe%20Sivam/Naatukkoru%20Seithi.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10986261_p_v8_aa.jpg",
+        "artist": "Vidyasagar, Kamal Haasan",
+        "album": "Anbe Sivam",
+        "theme": "Motivational",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0513",
+        "title": "Poovaasam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anbe%20Sivam/Poovaasam.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10986261_p_v8_aa.jpg",
+        "artist": "Vidyasagar, KK",
+        "album": "Anbe Sivam",
+        "theme": "Feel Good",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Anjaan",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Anjaan_Audio.jpg",
+    "songs": [
+      {
+        "id": "song_0514",
+        "title": "Bang Bang Bang",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anjaan/Bang-Bang-Bang.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Anjaan_Audio.jpg",
+        "artist": "Yuvan Shankar Raja, Ranjith,",
+        "album": "Anjaan",
+        "theme": "Energetic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0515",
+        "title": "Ek Do Theen",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anjaan/Ek-Do-Theen.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Anjaan_Audio.jpg",
+        "artist": "Yuvan Shankar Raja, Suriya, Sathyan",
+        "album": "Anjaan",
+        "theme": "Fun",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0516",
+        "title": "Kadhal Aasai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anjaan/Kadhal-Aasai.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Anjaan_Audio.jpg",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Anjaan",
+        "theme": "Romantic",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0517",
+        "title": "Oru Kan Jaadai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anjaan/Oru-Kan-Jaadai.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Anjaan_Audio.jpg",
+        "artist": "Yuvan Shankar Raja, Karthik, Shweta Pandit",
+        "album": "Anjaan",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0518",
+        "title": "Sirippu En",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anjaan/Sirippu-En.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Anjaan_Audio.jpg",
+        "artist": "Yuvan Shankar Raja",
+        "album": "Anjaan",
+        "theme": "Soft",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Anniyan",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTRlM2Y1MjQtNzkyMS00YTI4LWIzMDktMTMyY2U4NmI2N2U2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "songs": [
+      {
+        "id": "song_0519",
+        "title": "Andangkaka",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anniyan/Andangkaka.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTRlM2Y1MjQtNzkyMS00YTI4LWIzMDktMTMyY2U4NmI2N2U2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "artist": "Harris Jayaraj, Jassie Gift, Shreya Ghoshal",
+        "album": "Anniyan",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0520",
+        "title": "Iyengaaru Veetu Azhage",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anniyan/Iyengaaru-Veetu-Azhage.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTRlM2Y1MjQtNzkyMS00YTI4LWIzMDktMTMyY2U4NmI2N2U2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "artist": "Harris Jayaraj, Harini, Naresh Iyer",
+        "album": "Anniyan",
+        "theme": "Carnatic Fusion",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0521",
+        "title": "Kaadhal Yaanai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anniyan/Kaadhal-Yaanai.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTRlM2Y1MjQtNzkyMS00YTI4LWIzMDktMTMyY2U4NmI2N2U2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "artist": "Harris Jayaraj, Nakul, Andrea Jeremiah, Blaaze",
+        "album": "Anniyan",
+        "theme": "Romantic Pop",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0522",
+        "title": "Kannum Kannum Nokia",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anniyan/Kannum-Kannum-Nokia.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTRlM2Y1MjQtNzkyMS00YTI4LWIzMDktMTMyY2U4NmI2N2U2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "artist": "Harris Jayaraj, Lesle Lewis, Andrea Jeremiah",
+        "album": "Anniyan",
+        "theme": "Romantic Duet",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0523",
+        "title": "Oh Sukumari",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anniyan/Oh-Sukumari.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTRlM2Y1MjQtNzkyMS00YTI4LWIzMDktMTMyY2U4NmI2N2U2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "artist": "Harris Jayaraj, Hariharan, Harini",
+        "album": "Anniyan",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0524",
+        "title": "Theme Music",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Anniyan/Theme-Music.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTRlM2Y1MjQtNzkyMS00YTI4LWIzMDktMTMyY2U4NmI2N2U2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "artist": "Harris Jayaraj",
+        "album": "Anniyan",
+        "theme": "Theme",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Asuran",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTllMzc4NmMtNGJjMy00MmZjLTk1NjAtZWI4M2Q0ZDI4ZDIxXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg",
+    "songs": [
+      {
+        "id": "song_0525",
+        "title": "Ellu Vaya Pookalaye",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asuran/Ellu-Vaya-Pookalaye-MassTamilan.org.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTllMzc4NmMtNGJjMy00MmZjLTk1NjAtZWI4M2Q0ZDI4ZDIxXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg",
+        "artist": "G. V. Prakash Kumar, Dhanush",
+        "album": "Asuran",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0526",
+        "title": "Kannazhagu Rathiname",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asuran/Kannazhagu-Rathiname-MassTamilan.org.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTllMzc4NmMtNGJjMy00MmZjLTk1NjAtZWI4M2Q0ZDI4ZDIxXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg",
+        "artist": "G. V. Prakash Kumar, Ken Karunas",
+        "album": "Asuran",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0527",
+        "title": "Kathari Poovazhagi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asuran/Kathari-Poovazhagi-MassTamilan.org.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTllMzc4NmMtNGJjMy00MmZjLTk1NjAtZWI4M2Q0ZDI4ZDIxXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg",
+        "artist": "G. V. Prakash Kumar, Velmurugan, Rajalakshmi",
+        "album": "Asuran",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0528",
+        "title": "Polladha Boomi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asuran/Polladha-Boomi-MassTamilan.org.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTllMzc4NmMtNGJjMy00MmZjLTk1NjAtZWI4M2Q0ZDI4ZDIxXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg",
+        "artist": "G. V. Prakash Kumar, Dhanush",
+        "album": "Asuran",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0529",
+        "title": "The Blood Bath",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asuran/The-Blood-Bath-MassTamilan.org.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTllMzc4NmMtNGJjMy00MmZjLTk1NjAtZWI4M2Q0ZDI4ZDIxXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg",
+        "artist": "G. V. Prakash Kumar",
+        "album": "Asuran",
+        "theme": "BGM",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0530",
+        "title": "Yen Minukki",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Asuran/Yen-Minukki-MassTamilan.org.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTllMzc4NmMtNGJjMy00MmZjLTk1NjAtZWI4M2Q0ZDI4ZDIxXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg",
+        "artist": "G. V. Prakash Kumar, Teejay Arunasalam",
+        "album": "Asuran",
+        "theme": "Melody",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Attakathi",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTZjYzQ4YzktYjY0My00N2UzLWE0YTQtMTg4MTNkM2E5MzM1XkEyXkFqcGdeQXVyMTY2MzY3NzY2._V1_FMjpg_UX1000_.jpg",
+    "songs": [
+      {
+        "id": "song_0531",
+        "title": "Aadi Pona Aavani",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Attakathi/Aadi-Pona-Aavani.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTZjYzQ4YzktYjY0My00N2UzLWE0YTQtMTg4MTNkM2E5MzM1XkEyXkFqcGdeQXVyMTY2MzY3NzY2._V1_FMjpg_UX1000_.jpg",
+        "artist": "Santhosh Narayanan, Hariharasudhan",
+        "album": "Attakathi",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0532",
+        "title": "Aasai Oar Pulveli",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Attakathi/Aasai-Oar-Pulveli.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTZjYzQ4YzktYjY0My00N2UzLWE0YTQtMTg4MTNkM2E5MzM1XkEyXkFqcGdeQXVyMTY2MzY3NzY2._V1_FMjpg_UX1000_.jpg",
+        "artist": "Santhosh Narayanan, Pradeep Kumar",
+        "album": "Attakathi",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0533",
+        "title": "Adi En Gana Mayil",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Attakathi/Adi-En-Gana-Mayil.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTZjYzQ4YzktYjY0My00N2UzLWE0YTQtMTg4MTNkM2E5MzM1XkEyXkFqcGdeQXVyMTY2MzY3NzY2._V1_FMjpg_UX1000_.jpg",
+        "artist": "Santhosh Narayanan, Gana Bala",
+        "album": "Attakathi",
+        "theme": "Gaana",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0534",
+        "title": "Band Musical Sequence",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Attakathi/Band-Musical-Sequence.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTZjYzQ4YzktYjY0My00N2UzLWE0YTQtMTg4MTNkM2E5MzM1XkEyXkFqcGdeQXVyMTY2MzY3NzY2._V1_FMjpg_UX1000_.jpg",
+        "artist": "Santhosh Narayanan",
+        "album": "Attakathi",
+        "theme": "Instrumental",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0535",
+        "title": "Nadukadalula Kappala",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Attakathi/Nadukadalula-Kappala.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTZjYzQ4YzktYjY0My00N2UzLWE0YTQtMTg4MTNkM2E5MzM1XkEyXkFqcGdeQXVyMTY2MzY3NzY2._V1_FMjpg_UX1000_.jpg",
+        "artist": "Santhosh Narayanan, Meenakshi Iyer",
+        "album": "Attakathi",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0536",
+        "title": "Vazhi Parathirundhen",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Attakathi/Vazhi-Parathirundhen.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTZjYzQ4YzktYjY0My00N2UzLWE0YTQtMTg4MTNkM2E5MzM1XkEyXkFqcGdeQXVyMTY2MzY3NzY2._V1_FMjpg_UX1000_.jpg",
+        "artist": "Santhosh Narayanan, Gaana Bala",
+        "album": "Attakathi",
+        "theme": "Gaana",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title": "Azhagi",
+    "image": "https://m.media-amazon.com/images/M/MV5BODdkNTliZTktNjYwNS00OWE1LTliMzQtNmJkZDQ4YmYwOTJiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "songs": [
+      {
+        "id": "song_0537",
+        "title": "Damaku Damakkudam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Azhagi/Damaku-Damakkudam.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BODdkNTliZTktNjYwNS00OWE1LTliMzQtNmJkZDQ4YmYwOTJiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Ilaiyaraaja, Tippu",
+        "album": "Azhagi",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0538",
+        "title": "Kuruvi Kodanja",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Azhagi/Kuruvi-Kodanja.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BODdkNTliZTktNjYwNS00OWE1LTliMzQtNmJkZDQ4YmYwOTJiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Ilaiyaraaja, Sriram Parthasarathy",
+        "album": "Azhagi",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0539",
+        "title": "Oliyile Therivadhu Devadhaya",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Azhagi/Oliyile-Therivadhu-Devadhaya.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BODdkNTliZTktNjYwNS00OWE1LTliMzQtNmJkZDQ4YmYwOTJiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Ilaiyaraaja, K. S. Chithra",
+        "album": "Azhagi",
+        "theme": "Classical",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0540",
+        "title": "Oru Sundari Vandhalam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Azhagi/Oru-Sundari-Vandhalam.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BODdkNTliZTktNjYwNS00OWE1LTliMzQtNmJkZDQ4YmYwOTJiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Ilaiyaraaja, Malaysia Vasudevan",
+        "album": "Azhagi",
+        "theme": "Melody",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0541",
+        "title": "Pattu Solli Pada Solli",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Azhagi/Pattu-Solli-Pada-Solli.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BODdkNTliZTktNjYwNS00OWE1LTliMzQtNmJkZDQ4YmYwOTJiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Ilaiyaraaja, Manikka Vinayagam",
+        "album": "Azhagi",
+        "theme": "Folk",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0542",
+        "title": "Un Kuthama En Kuthama",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Azhagi/Un-Kuthama-En-Kuthama.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BODdkNTliZTktNjYwNS00OWE1LTliMzQtNmJkZDQ4YmYwOTJiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "artist": "Ilaiyaraaja, K. J. Yesudas",
+        "album": "Azhagi",
+        "theme": "Emotional",
+        "language": "Tamil"
+      }
+    ]
+  },        
+    
+  
+  
+
+
+
+
+
+  {
     "title": "Ed Sheeran",
     "image": "https://cdn.britannica.com/17/249617-050-4575AB4C/Ed-Sheeran-performs-Rockefeller-Plaza-Today-Show-New-York-2023.jpg",
     "songs": [
