@@ -1,5 +1,111 @@
 [
   {
+    "title":"Coolie",
+    "image":"https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+    "songs":[
+      {
+        "id":"song_0584",
+        "title":"Chikitu Vibe",
+        "url":"https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Chikitu-Vibe-MassTamilan.dev.mp3",
+        "artist":" Anirudh Ravichander, T. Rajendar",
+        "image":"https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album":"Coolie",
+        "theme":"Vibe",
+        "language":"Tamil"
+      },
+      {
+        "id": "song_0585",
+        "title": "Chikitu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Chikitu.mp3",
+        "artist": "Anirudh Ravichander, T. Rajendar, Arivu",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0586",
+        "title": "Coolie Disco",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Coolie%Disco.mp3",
+        "artist": "Anirudh Ravichander",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0587",
+        "title": "I Am The Danger",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/I%Am%The%Danger.mp3",
+        "artist": "Anirudh Ravichander, Siddharth Basrur",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0588",
+        "title": "Kokki",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Kokki.mp3",
+        "artist": "Anirudh Ravichander, Sooraj Santhosh",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0589",
+        "title": "Mobsta",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Mobsta.mp3",
+        "artist": "Anirudh Ravichander",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0590",
+        "title": "Monica",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Monica.mp3",
+        "artist": "Anirudh Ravichander, Sublahshini, Asal Kolaar",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Item",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0591",
+        "title": "Powerhouse Vibe",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Powerhouse-Vibe-MassTamilan.dev.mp3",
+        "artist": "Anirudh Ravichander",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0592",
+        "title": "Powerhouse",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Powerhouse.mp3",
+        "artist": "Anirudh Ravichander, Arivu",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0593",
+        "title": "Uyirnaadi Nanbane",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Uyirnaadi%Nanbane.mp3",
+        "artist": "Anirudh Ravichander, Sai Smriti",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Sad",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
     "title": "Vaaranam Aayiram",
     "image": "https://imgs.search.brave.com/QzXzdlCWPqTYSLvrAUNdBflAenkHeWmWwqbFJUopoAY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmRp/c2NvZ3MuY29tL2Na/Z2MxTjVYOFE5N1Bj/VUgwVWJjd014RTA2/UmFpam1taUI1Njl5/cWoxb1kvcnM6Zml0/L2c6c20vcTo0MC9o/OjMwMC93OjMwMC9j/ek02THk5a2FYTmpi/MmR6L0xXUmhkR0Zp/WVhObExXbHQvWVdk/bGN5OVNMVEk1TVRJ/MS9NamM1TFRFM01E/RTVORE01L05UY3RN/ell6T1M1cWNHVm4u/anBlZw",
     "songs": [
