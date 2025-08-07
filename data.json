@@ -5949,5 +5949,592 @@
         "language": "English"
       }
     ]
+  },
+  {
+    "title": "Bruno Mars",
+    "image": "https://cdn-images.dzcdn.net/images/artist/7f3c0956357c326b2db2cf436f1dc8c5/1900x1900-000000-80-0-0.jpg",
+    "songs": [
+      {
+        "id": "song_0451",
+        "title": "24K Magic",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/24K%20Magic.mp3",
+        "image": "https://cdn-images.dzcdn.net/images/artist/7f3c0956357c326b2db2cf436f1dc8c5/1900x1900-000000-80-0-0.jpg",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0452",
+        "title": "777",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/777.mp3",
+        "image": "https://i1.sndcdn.com/artworks-zBokEFnJwvUgoRU2-cbEZ1Q-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "An Evening with Silk Sonic",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0453",
+        "title": "APT.",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/APT..mp3",
+        "image": "https://i1.sndcdn.com/artworks-000244392679-ooxk09-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unreleased",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0454",
+        "title": "After Last Night (with Thundercat & Bootsy Collins)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/After%20Last%20Night%20(with%20Thundercat%20&%20Bootsy%20Collins).mp3",
+        "image": "https://i1.sndcdn.com/artworks-EZ6oiZ4P6z9q-0-t500x500.jpg",
+        "artist": "Bruno Mars, Thundercat, Bootsy Collins",
+        "album": "An Evening with Silk Sonic",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0455",
+        "title": "BLOW (with Chris Stapleton & Bruno Mars)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/BLOW%20(with%20Chris%20Stapleton%20&%20Bruno%20Mars).mp3",
+        "image": "https://i1.sndcdn.com/artworks-000582569904-x09xcu-t500x500.jpg",
+        "artist": "Bruno Mars, Chris Stapleton, Ed Sheeran",
+        "album": "No.6 Collaborations Project",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0456",
+        "title": "Billionaire (feat. Bruno Mars)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Billionaire%20(feat.%20Bruno%20Mars).mp3",
+        "image": "https://i1.sndcdn.com/artworks-000163342961-0s65xw-t500x500.jpg",
+        "artist": "Bruno Mars, Travie McCoy",
+        "album": "Lazarus",
+        "theme": "Dreams",
+        "language": "English"
+      },
+      {
+        "id": "song_0457",
+        "title": "Blast Off",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Blast%20Off.mp3",
+        "image": "https://i1.sndcdn.com/artworks-JOzPFaMQ5O1J-0-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "An Evening with Silk Sonic",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0458",
+        "title": "Bonde do Brunão",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Bonde%20do%20Brunão.mp3",
+        "image": "https://i1.sndcdn.com/artworks-B7w9mu7Onzqr-0-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Fan-Made",
+        "theme": "Boost",
+        "language": "Portuguese"
+      },
+      {
+        "id": "song_0459",
+        "title": "Calling All My Lovelies",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Calling%20All%20My%20Lovelies.mp3",
+        "image": "https://i1.sndcdn.com/artworks-CxAzE1Ilp8me-0-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0460",
+        "title": "Catch a Grenade - The Hooligans Remix",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Catch%20a%20Grenade%20-%20The%20Hooligans%20Remix.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000089352389-k12lfk-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Remix",
+        "theme": "Breakup",
+        "language": "English"
+      },
+      {
+        "id": "song_0461",
+        "title": "Chunky",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Chunky.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000190724922-1m01iw-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0462",
+        "title": "Count on Me",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Count%20on%20Me.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000126018276-8w2b0j-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0463",
+        "title": "Die With A Smile",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Die%20With%20A%20Smile.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000261385054-lk7s4e-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unreleased",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0464",
+        "title": "Finesse - Remix; feat. Cardi B",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Finesse%20-%20Remix;%20feat.%20Cardi%20B.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000285680403-i2ov54-t500x500.jpg",
+        "artist": "Bruno Mars, Cardi B",
+        "album": "24K Magic (Remix)",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0465",
+        "title": "Finesse",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Finesse.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000241125012-yhrj2x-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0466",
+        "title": "Fly As Me",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Fly%20As%20Me.mp3",
+        "image": "https://i1.sndcdn.com/artworks-2z4kROwU8Tf4Fjx3-MShltw-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "An Evening with Silk Sonic",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0467",
+        "title": "Forget You (Arr. Ed Rex)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Forget%20You%20(Arr.%20Ed%20Rex).mp3",
+        "image": "https://i1.sndcdn.com/artworks-000086929310-5pm3zs-t500x500.jpg",
+        "artist": "Bruno Mars, CeeLo Green",
+        "album": "The Lady Killer",
+        "theme": "Breakup",
+        "language": "English"
+      },
+      {
+        "id": "song_0468",
+        "title": "Gorilla",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Gorilla.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000076674835-7nphhr-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0469",
+        "title": "Grenade - Acoustic",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Grenade%20-%20Acoustic.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000126047624-j2zsyk-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Remix",
+        "theme": "Sad",
+        "language": "English"
+      },
+      {
+        "id": "song_0470",
+        "title": "Grenade",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Grenade.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000043231581-n4nhqz-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans",
+        "theme": "Breakup",
+        "language": "English"
+      },
+      {
+        "id": "song_0471",
+        "title": "If I Knew",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/If%20I%20Knew.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000146330291-xos1uj-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "theme": "Sad",
+        "language": "English"
+      },
+      {
+        "id": "song_0472",
+        "title": "It Will Rain",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/It%20Will%20Rain.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000140404396-4ozz6j-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "The Twilight Saga: Breaking Dawn",
+        "theme": "Sad",
+        "language": "English"
+      },
+      {
+        "id": "song_0473",
+        "title": "Just the Way You Are",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Just%20the%20Way%20You%20Are.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000055490862-yud27v-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0474",
+        "title": "Leave The Door Open",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Leave%20The%20Door%20Open.mp3",
+        "image": "https://i1.sndcdn.com/artworks-Rgyti6zkQh0utAcw-nrIUEA-t500x500.jpg",
+        "artist": "Bruno Mars, Anderson .Paak",
+        "album": "An Evening with Silk Sonic",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0475",
+        "title": "Lighters",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Lighters.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000133321367-qexgsr-t500x500.jpg",
+        "artist": "Bruno Mars, Bad Meets Evil",
+        "album": "Hell: The Sequel",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0476",
+        "title": "Liquor Store Blues (feat. Damian Marley)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Liquor%20Store%20Blues%20(feat.%20Damian%20Marley).mp3",
+        "image": "https://i1.sndcdn.com/artworks-000138860289-nxf9ns-t500x500.jpg",
+        "artist": "Bruno Mars, Damian Marley",
+        "album": "Doo-Wops & Hooligans",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0477",
+        "title": "Locked out of Heaven",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Locked%20out%20of%20Heaven.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000049164518-ptg2sf-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0478",
+        "title": "Love - Feat. Bruno Mars",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Love%20-%20Feat.%20Bruno%20Mars.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000121448830-8gh45g-t500x500.jpg",
+        "artist": "Bruno Mars, Jaeson Ma",
+        "album": "Love",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0479",
+        "title": "Love's Train",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Love's%20Train.mp3",
+        "image": "https://i1.sndcdn.com/artworks-7vBmt23tP0ImtqG6-VsBXFQ-t500x500.jpg",
+        "artist": "Bruno Mars, Anderson .Paak",
+        "album": "An Evening with Silk Sonic",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0480",
+        "title": "Marry You",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Marry%20You.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000151956791-iyhh0o-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0481",
+        "title": "Mirror",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Mirror.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000042180728-nl1bm4-t500x500.jpg",
+        "artist": "Bruno Mars, Lil Wayne",
+        "album": "Tha Carter IV",
+        "theme": "Sad",
+        "language": "English"
+      },
+      {
+        "id": "song_0482",
+        "title": "Money Make Her Smile",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Money%20Make%20Her%20Smile.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000109783658-ypqjti-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0483",
+        "title": "Moonshine",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Moonshine.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000040767843-1l9xzp-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0484",
+        "title": "Natalie",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Natalie.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000053749114-f0kfv3-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "theme": "Breakup",
+        "language": "English"
+      },
+      {
+        "id": "song_0485",
+        "title": "Nothin' on You (feat. Bruno Mars)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Nothin'%20on%20You%20(feat.%20Bruno%20Mars).mp3",
+        "image": "https://i1.sndcdn.com/artworks-000093623347-86r2uj-t500x500.jpg",
+        "artist": "Bruno Mars, B.o.B",
+        "album": "B.o.B Presents: The Adventures of Bobby Ray",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0486",
+        "title": "Our First Time",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Our%20First%20Time.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000037647022-povxfn-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0502",
+        "title": "Perm",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Perm.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000144379702-uzpy3z-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0503",
+        "title": "Please Me",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Please%20Me.mp3",
+        "image": "https://i1.sndcdn.com/artworks-WKT7V6HqQOQtkqGV-qvo9sQ-t500x500.jpg",
+        "artist": "Bruno Mars, Cardi B",
+        "album": "Bruno Mars",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0504",
+        "title": "Put On A Smile",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Put%20On%20A%20Smile.mp3",
+        "image": "https://i1.sndcdn.com/artworks-uWGBYX9P4z1WQ45C-kWlNtg-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Sad",
+        "language": "English"
+      },
+      {
+        "id": "song_0505",
+        "title": "Runaway Baby",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Runaway%20Baby.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000146769264-dvdlil-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0506",
+        "title": "Show Me",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Show%20Me.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000103721482-1nv0bb-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0507",
+        "title": "Skate",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Skate.mp3",
+        "image": "https://i1.sndcdn.com/artworks-KyoFbB6c5P7N-0-t500x500.jpg",
+        "artist": "Bruno Mars, Anderson .Paak",
+        "album": "Bruno Mars",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0508",
+        "title": "Smokin Out The Window",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Smokin%20Out%20The%20Window.mp3",
+        "image": "https://i1.sndcdn.com/artworks-1yY0AQjZP2nRUwN5-LlIQJw-t500x500.jpg",
+        "artist": "Bruno Mars, Anderson .Paak",
+        "album": "Bruno Mars",
+        "theme": "Breakup",
+        "language": "English"
+      },
+      {
+        "id": "song_0509",
+        "title": "Somewhere in Brooklyn",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Somewhere%20in%20Brooklyn.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000088975153-fzsohr-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0510",
+        "title": "Straight up & Down",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Straight%20up%20&%20Down.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000210258802-31v0jx-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0511",
+        "title": "Talking to the Moon",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Talking%20to%20the%20Moon.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000117154630-jl13tg-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Sad",
+        "language": "English"
+      },
+      {
+        "id": "song_0512",
+        "title": "That's What I Like",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/That's%20What%20I%20Like.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000209289694-jc8gn3-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0513",
+        "title": "The Lazy Song",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/The%20Lazy%20Song.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000071155221-jzm8ah-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0514",
+        "title": "The Other Side (feat. CeeLo Green and B.o.B)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/The%20Other%20Side%20(feat.%20CeeLo%20Green%20and%20B.o.B).mp3",
+        "image": "https://i1.sndcdn.com/artworks-000061016520-3r2a34-t500x500.jpg",
+        "artist": "Bruno Mars, CeeLo Green, B.o.B",
+        "album": "Bruno Mars",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0515",
+        "title": "Too Good to Say Goodbye",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Too%20Good%20to%20Say%20Goodbye.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000210258813-08j4ue-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Breakup",
+        "language": "English"
+      },
+      {
+        "id": "song_0516",
+        "title": "Treasure",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Treasure.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000144379708-ws9vdc-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Bruno Mars",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0517",
+        "title": "Uptown Funk (feat. Bruno Mars)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Uptown%20Funk%20(feat.%20Bruno%20Mars).mp3",
+        "image": "https://i1.sndcdn.com/artworks-uptownfunk-t500x500.jpg",
+        "artist": "Bruno Mars, Mark Ronson",
+        "album": "Uptown Special",
+        "theme": "Boost",
+        "language": "English"
+      },
+      {
+        "id": "song_0518",
+        "title": "Versace on the Floor (Bruno Mars vs. David Guetta)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Versace%20on%20the%20Floor%20(Bruno%20Mars%20vs.%20David%20Guetta).mp3",
+        "image": "https://i1.sndcdn.com/artworks-versace-guetta-t500x500.jpg",
+        "artist": "Bruno Mars, David Guetta",
+        "album": "24K Magic (Remix)",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0519",
+        "title": "Versace on the Floor",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Versace%20on%20the%20Floor.mp3",
+        "image": "https://i1.sndcdn.com/artworks-versacefloor-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "theme": "Love",
+        "language": "English"
+      },
+      {
+        "id": "song_0520",
+        "title": "Wake Up in the Sky",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Wake%20Up%20in%20the%20Sky.mp3",
+        "image": "https://i1.sndcdn.com/artworks-wakeupsky-t500x500.jpg",
+        "artist": "Bruno Mars, Gucci Mane, Kodak Black",
+        "album": "Evil Genius",
+        "theme": "Vibe",
+        "language": "English"
+      },
+      {
+        "id": "song_0521",
+        "title": "When I Was Your Man",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/When%20I%20Was%20Your%20Man.mp3",
+        "image": "https://i1.sndcdn.com/artworks-wheniwasyourman-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "theme": "Breakup",
+        "language": "English"
+      },
+      {
+        "id": "song_0522",
+        "title": "Young Girls",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Young%20Girls.mp3",
+        "image": "https://i1.sndcdn.com/artworks-younggirls-t500x500.jpg",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "theme": "Sad",
+        "language": "English"
+      },
+      {
+        "id": "song_0523",
+        "title": "Young, Wild & Free (feat. Bruno Mars)",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Bruno%20Mars/Young,%20Wild%20&%20Free%20(feat.%20Bruno%20Mars).mp3",
+        "image": "https://i1.sndcdn.com/artworks-youngwildfree-t500x500.jpg",
+        "artist": "Bruno Mars, Snoop Dogg, Wiz Khalifa",
+        "album": "Mac & Devin Go to High School",
+        "theme": "Boost",
+        "language": "English"
+      }
+    ]
   }
+  
 ]
