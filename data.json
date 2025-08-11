@@ -1,17 +1,17 @@
 [
   {
-    "title":"Coolie",
-    "image":"https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
-    "songs":[
+    "title": "Coolie",
+    "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+    "songs": [
       {
-        "id":"song_0584",
-        "title":"Chikitu Vibe",
-        "url":"https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Chikitu-Vibe-MassTamilan.dev.mp3",
-        "artist":" Anirudh Ravichander, T. Rajendar",
-        "image":"https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
-        "album":"Coolie",
-        "theme":"Vibe",
-        "language":"Tamil"
+        "id": "song_0584",
+        "title": "Chikitu Vibe",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Coolie/Chikitu-Vibe-MassTamilan.dev.mp3",
+        "artist": " Anirudh Ravichander, T. Rajendar",
+        "image": "https://www.onlykollywood.com/wp-content/uploads/2025/03/coolie-rajinikanth-lokesh-kanagaraj.jpg",
+        "album": "Coolie",
+        "theme": "Vibe",
+        "language": "Tamil"
       },
       {
         "id": "song_0585",
@@ -1412,7 +1412,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Boss Engira Baskaran",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcciohbD8uWpO361dhvGp4SgRukgye1Yw9lw&s",
@@ -1468,7 +1468,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Boys",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4zkSZgylizzTYsKDQEO5N2cjV8ldou3beA&s",
@@ -1544,7 +1544,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Chikku Bukku",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5c676aubyhwk7adR53qu11D7UOCw4767j4g&s",
@@ -1630,7 +1630,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Darbar",
     "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/darbar-et00116714-07-11-2019-06-10-04.jpg",
@@ -1706,7 +1706,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Dharala Prabhu",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwBPz-OnY835cMUdh-vJ-iThFZ1jK_cLkxg&s",
@@ -1792,7 +1792,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Eesan",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBWFNswr8ea4n9PHy2UT09ie9YT2J9MS9RA&s",
@@ -1848,7 +1848,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Enthiran",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAkq5MbpCLD5F0cdR9l-NwM8i_vuTbQ2Srg&s",
@@ -1924,7 +1924,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Goa",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1pywsg2lWHQJTzaDZ_Rmn_PLOSqOB5_LoBupccWiQBgMPLDoh0uHWSbQq3vkaNFcLrU&usqp=CAU",
@@ -2020,7 +2020,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Guru Sishyan",
     "image": "https://s.saregama.tech/image/c/fw_485/4/68/02/guru-sishyan_1461045675.jpg",
@@ -2254,7 +2254,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Kaadhal Solla Vandhen",
     "image": "https://m.media-amazon.com/images/M/MV5BMWFjZjAyNGUtNmVkNC00YjU0LWE5NmEtOWYwMDIwMWEwMmE5XkEyXkFqcGc@._V1_.jpg",
@@ -2320,7 +2320,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Kacheri Arambam",
     "image": "https://m.media-amazon.com/images/M/MV5BYzAzOGNhYmEtODBkYS00MmFmLThlMzItMDk1MWNiOWVmYzI1XkEyXkFqcGc@._V1_.jpg",
@@ -2396,7 +2396,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Kalavani",
     "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Kalavani_movie_poster.jpg",
@@ -2472,7 +2472,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Kannum Kannum Kollaiyadithaal",
     "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18021011_p_v13_aa.jpg",
@@ -2624,7 +2624,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Maanja Velu",
     "image": "https://images.jdmagicbox.com/comp/jd_social/news/2018jul18/image-97238-80scqnwmms.jpg",
@@ -2766,7 +2766,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Mynaa",
     "image": "https://m.media-amazon.com/images/M/MV5BZmY3NzU3YzAtNzIxNi00NGEzLWE0ZDgtYTJkMzNiMjhmMGRiXkEyXkFqcGc@._V1_.jpg",
@@ -2822,7 +2822,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Naan Mahaan Alla",
     "image": "https://c.saavncdn.com/572/Naan-Mahaan-Alla-Tamil-2010-500x500.jpg",
@@ -2878,7 +2878,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Oh My Kadavule",
     "image": "https://m.media-amazon.com/images/S/pv-target-images/62be24e4bfd3221ac1fd8d38ec243e09c0046c82a175b7249201cbe795fab4ba.jpg",
@@ -3360,7 +3360,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Aambala",
     "image": "https://a10.gaanacdn.com/gn_img/albums/0wrb4N3Lg7/wrb406YabL/size_m.jpg",
@@ -3416,7 +3416,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Aanandham",
     "image": "https://upload.wikimedia.org/wikipedia/ta/5/50/Anandham.jpg",
@@ -3482,7 +3482,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Aandavan Kattalai",
     "image": "https://m.media-amazon.com/images/I/61SqKqd2UnL._UXNaN_FMjpg_QL85_.jpg",
@@ -4304,7 +4304,7 @@
         "language": "Tamil"
       }
     ]
-  },        
+  },
   {
     "title": "Aadhavan",
     "image": " https://d1lcdpwgve0lt5.cloudfront.net/78575/public/public/system/posters/1419191/standard/Aadhavan-213x285-Potrait-_1675078015.jpg",
@@ -4370,7 +4370,7 @@
         "language": "Tamil"
       }
     ]
-  },  
+  },
   {
     "title": "Aarambam",
     "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Arrambam_CD_cover.jpg",
@@ -4741,12 +4741,7 @@
         "artist": "Hiphop Tamizha"
       }
     ]
-  },    
-  
-
-
-
-
+  },
 
   {
     "title": "Ed Sheeran",
@@ -6535,6 +6530,102 @@
         "language": "English"
       }
     ]
+  },
+
+  {
+    "title": "Premam",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+    "songs": [
+      {
+        "id": "song_0524",
+        "title": "Aluva Puzha",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Aluva-Puzha.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Rajesh Murugesan. Vineeth Sreenivasan",
+        "album": "Premam",
+        "theme": "Love",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0525",
+        "title": "Chinna Chinna",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Premam/Chinna-Chinna.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Rajesh Murugesan, Ranjith, Aalap Raju",
+        "album": "Premam",
+        "theme": "Love",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0526",
+        "title": "Ithu Puthan Lokam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Premam/Ithu-Puthan-Lokam.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Love",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0527",
+        "title": "Kalam kettu Poi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Premam/Kalam-kettu-Poi.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Sad",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0528",
+        "title": "Kalippu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Premam/Kalippu.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Vibe",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0529",
+        "title": "Malare Ninne",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Premam/Malare-Ninne.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Rajesh Murugesan, Vijay Yesudas",
+        "album": "Premam",
+        "theme": "Love",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0530",
+        "title": "Pathivayi Njan",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Premam/Pathivayi-Njan.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Sad",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0531",
+        "title": "Rockaankuthu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Premam/Rockaankuthu.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Rajesh Murugesan, Anirudh Ravichander",
+        "album": "Premam",
+        "theme": "Boost",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0532",
+        "title": "Scene Contra",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_2/main/Premam/Scene-Contra.mp3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJiMWMxYmMtNTQxMy00ZjE2LWEzYTAtNTdmODI4MGI4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Boost",
+        "language": "Malayalam"
+      }
+    ]
   }
-  
 ]
