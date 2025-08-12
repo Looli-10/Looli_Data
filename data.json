@@ -6530,5 +6530,103 @@
         "language": "English"
       }
     ]
+  },
+
+
+  {
+    "title": "Premam",
+    "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+    "songs": [
+      {
+        "id": "song_0524",
+        "title": "Aluva Puzha",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Aluva-Puzha.mp3",
+        "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+        "artist": "Rajesh Murugesan. Vineeth Sreenivasan",
+        "album": "Premam",
+        "theme": "Love",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0525",
+        "title": "Chinna Chinna",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Chinna-Chinna.mp3",
+        "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+        "artist": "Rajesh Murugesan, Ranjith, Aalap Raju",
+        "album": "Premam",
+        "theme": "Love",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0526",
+        "title": "Ithu Puthan Lokam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Ithu-Puthan-Lokam.mp3",
+        "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Love",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0527",
+        "title": "Kalam kettu Poi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Kalam-kettu-Poi.mp3",
+        "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Sad",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0528",
+        "title": "Kalippu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Kalippu.mp3",
+        "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Vibe",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0529",
+        "title": "Malare Ninne",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Malare-Ninne.mp3",
+        "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+        "artist": "Rajesh Murugesan, Vijay Yesudas",
+        "album": "Premam",
+        "theme": "Love",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0530",
+        "title": "Pathivayi Njan",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Pathivayi-Njan.mp3",
+        "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Sad",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0531",
+        "title": "Rockaankuthu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Rockaankuthu.mp3",
+        "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+        "artist": "Rajesh Murugesan, Anirudh Ravichander",
+        "album": "Premam",
+        "theme": "Boost",
+        "language": "Malayalam"
+      },
+      {
+        "id": "song_0532",
+        "title": "Scene Contra",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_M/main/Premam/Scene-Contra.mp3",
+        "image": "https://static.qobuz.com/images/covers/57/68/3614591746857_600.jpg",
+        "artist": "Rajesh Murugesan, Shabareesh Varma",
+        "album": "Premam",
+        "theme": "Boost",
+        "language": "Malayalam"
+      }
+    ]
   }
 ]
