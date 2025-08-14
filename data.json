@@ -4808,6 +4808,290 @@
       }
     ]
   },
+  {
+    "title":"Vinnaithaandi Varuvaaya",
+    "image":"https://m.media-amazon.com/images/I/811u5OMFL2L._UF1000,1000_QL80_.jpg",
+    "songs":[
+      {
+        "id": "song_0600",
+        "title":"Aaoromale",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vinnaithaandi-Varuvaaya/Aaoromale.mp3",
+        "image": "https://m.media-amazon.com/images/I/811u5OMFL2L._UF1000,1000_QL80_.jpg",
+        "artist": "A.R. Rahman, Alphonse Joseph",
+        "album": "Vinnaithaandi Varuvaaya",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0601",
+        "title":"Anbil Avan",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vinnaithaandi-Varuvaaya/Anbil-Avan.mp3",
+        "image": "https://m.media-amazon.com/images/I/811u5OMFL2L._UF1000,1000_QL80_.jpg",
+        "artist": "A.R. Rahman, Devan Ekambaram,  Chinmayi",
+        "album": "Vinnaithaandi Varuvaaya",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0602",
+        "title":"Hosanna",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vinnaithaandi-Varuvaaya/Hosanna.mp3",
+        "image": "https://m.media-amazon.com/images/I/811u5OMFL2L._UF1000,1000_QL80_.jpg",
+        "artist": "A.R. Rahman, Vijay Prakash, Suzanne D mello & Blaaze",
+        "album": "Vinnaithaandi Varuvaaya",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0603",
+        "title":"Kannukkul Kannai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vinnaithaandi-Varuvaaya/Kannukkul-Kannai.mp3",
+        "image": "https://m.media-amazon.com/images/I/811u5OMFL2L._UF1000,1000_QL80_.jpg",
+        "artist": "A.R. Rahman, Naresh Iyer",
+        "album": "Vinnaithaandi Varuvaaya",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0604",
+        "title": "Mannipaaya",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vinnaithaandi-Varuvaaya/Mannipaaya.mp3",
+        "image": "https://m.media-amazon.com/images/I/811u5OMFL2L._UF1000,1000_QL80_.jpg",
+        "artist": "A.R. Rahman, Shreya Ghoshal",
+        "album": "Vinnaithaandi Varuvaaya",
+        "theme": "Sad",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0605",
+        "title": "Omana Penne",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vinnaithaandi-Varuvaaya/Omana-Penne.mp3",
+        "image": "https://m.media-amazon.com/images/I/811u5OMFL2L._UF1000,1000_QL80_.jpg",
+        "artist": "A.R. Rahman, Benny Dayal, Kalyani Menon",
+        "album": "Vinnaithaandi Varuvaaya",
+        "theme": "Love", 
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title":"Endrendrum Punnagai",
+    "image":"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10421007_p_v8_aa.jpg",
+    "songs":[
+      {
+        "id": "song_0606",
+        "title":"Enai Saaithaalae",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Endrendrum-Punnagai/Enai-Saaithaalae.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10421007_p_v8_aa.jpg",
+        "artist": "Harris Jayaraj, Hariharan, Shreya Ghosal",
+        "album": "Endrendrum Punnagai",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0607",
+        "title":"Ennatha Solla",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Endrendrum-Punnagai/Ennatha-Solla.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10421007_p_v8_aa.jpg",
+        "artist": "Harris Jayaraj, Karthik, Haricharan, Velmurugan, Ramesh Vinayagam",
+        "album": "Endrendrum Punnagai",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0608",
+        "title":"Kadal Naan Thaan",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Endrendrum-Punnagai/Kadal-Naan-Thaan.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10421007_p_v8_aa.jpg",
+        "artist": "Harris Jayaraj, Sudha Raghunathan, Suzanne D'mello, M K Balaji",
+        "album": "Endrendrum Punnagai",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0609",
+        "title":"Othayilae",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Endrendrum-Punnagai/Othayilae.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10421007_p_v8_aa.jpg",
+        "artist": "Harris Jayaraj,Tipu, Abhay Jodhpurkar",
+        "album": "Endrendrum Punnagai",
+        "theme": "Sad",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0610",
+        "title":"Vaan Engum Nee Minna",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Endrendrum-Punnagai/Vaan-Engum-Nee-Minna.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10421007_p_v8_aa.jpg",
+        "artist": "Harris Jayaraj, Aalap Raju, Harini",
+        "album": "Endrendrum Punnagai",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0611",
+        "title": "Yaelae Yealae Dhosthu Da",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Endrendrum-Punnagai/Yaelae-Yealae-Dhosthu-Da.mp3",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10421007_p_v8_aa.jpg",
+        "artist": "Harris Jayaraj, Krish, Naresh Iyer, Krishna Iyer",
+        "album": "Endrendrum Punnagai",
+        "theme": "Friendship",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title":"kadal",
+    "image":"https://arrahmanian.com/assets/img/tamil/kadal.jpg",
+    "songs":[
+      {
+        "id": "song_0612",
+        "title":"Adiye",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Kadal/Adiye.mp3",
+        "image": "https://arrahmanian.com/assets/img/tamil/kadal.jpg",
+        "artist": "A.R. Rahman, Sid Sriram",
+        "album": "Kadal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0613",
+        "title":"Anbin Vasale",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Kadal/Anbin-Vasale.mp3",
+        "image": "https://arrahmanian.com/assets/img/tamil/kadal.jpg",
+        "artist": "A.R. Rahman, Haricharan",
+        "album": "Kadal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0614",
+        "title":"Chithirai Nela",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Kadal/Chithirai-Nela.mp3",
+        "image": "https://arrahmanian.com/assets/img/tamil/kadal.jpg",
+        "artist": "A.R. Rahman, Vijay Yesudas ",
+        "album": "Kadal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0615",
+        "title": "Elay Keechan",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Kadal/Elay-Keechan.mp3",
+        "image": "https://arrahmanian.com/assets/img/tamil/kadal.jpg",
+        "artist": "A.R. Rahman",
+        "album": "Kadal",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0616",
+        "title": "Magudi Magudi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Kadal/Magudi-Magudi.mp3",
+        "image": "https://arrahmanian.com/assets/img/tamil/kadal.jpg",
+        "artist": "A.R. Rahman, Aaryan Dinesh, Kanagaratnam, Chinmayi, Tanvi Shah",
+        "album": "Kadal",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0617",
+        "title": "Moongil Thottam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Kadal/Moongil-Thottam.mp3",
+        "image": "https://arrahmanian.com/assets/img/tamil/kadal.jpg",
+        "artist": "A.R. Rahman, Abhay Jodhpurkar, Harini",
+        "album": "Kadal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0618", 
+        "title": " Nenjukkule",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Kadal/Nenjukkule.mp3",
+        "image": "https://arrahmanian.com/assets/img/tamil/kadal.jpg",
+        "artist": "A.R. Rahman, Shakthisree Gopalan",
+        "album": "Kadal",
+        "theme": "Love",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title":"Yennai Arindhaal",
+    "image":"https://images.justwatch.com/poster/313241390/s718/yennai-arindhaal.jpg",
+    "songs":[
+      {
+        "id": "song_0619",
+        "title":"Adhaaru Adhaaru",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Yennai-Arindhaal/Adhaaru-Adhaaru.mp3",
+        "image": "https://images.justwatch.com/poster/313241390/s718/yennai-arindhaal.jpg",
+        "artist": "Harris Jayaraj, Vijay Prakash, Gana Bala",
+        "album": "Yennai Arindhaal",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0620",
+        "title": "Idhayathai Yedho Ondru",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Yennai-Arindhaal/Idhayathai-Yedho-Ondru.mp3",
+        "image": "https://images.justwatch.com/poster/313241390/s718/yennai-arindhaal.jpg",
+        "artist": "Harris Jayaraj, Chinmayi",
+        "album": "Yennai Arindhaal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0621",
+        "title":"Maya Bazaar",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Yennai-Arindhaal/Maya-Bazaar.mp3",
+        "image": "https://images.justwatch.com/poster/313241390/s718/yennai-arindhaal.jpg",
+        "artist": "Harris Jayaraj, Aalap Raju, Priya Subramaniyam, Velmurugan, Krishna Iyer",
+        "album": "Yennai Arindhaal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0622",
+        "title":"Mazhai Vara Pogudhe",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Yennai-Arindhaal/Mazhai-Vara-Pogudhe.mp3",
+        "image": "https://images.justwatch.com/poster/313241390/s718/yennai-arindhaal.jpg",
+        "artist": "Harris Jayaraj, Karthik, Emcee Jesz",
+        "album": "Yennai Arindhaal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0623",
+        "title":"Unakkenna Venum Sollu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Yennai-Arindhaal/Unakkenna-Venum-Sollu.mp3",
+        "image": "https://images.justwatch.com/poster/313241390/s718/yennai-arindhaal.jpg",
+        "artist": "Harris Jayaraj, Benny Dayal, Mahathi",
+        "album": "Yennai Arindhaal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0624",
+        "title":"Yen Ennai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Yennai-Arindhaal/Yen-Ennai.mp3",
+        "image": "https://images.justwatch.com/poster/313241390/s718/yennai-arindhaal.jpg",
+        "artist": "Harris Jayaraj, Sunitha Sarathy, Kharesma Ravichandran",
+        "album": "Yennai Arindhaal",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0625",
+        "title": "Yennai Arindhaal",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Yennai-Arindhaal/Yennai-Arindhaal.mp3",
+        "image": "https://images.justwatch.com/poster/313241390/s718/yennai-arindhaal.jpg",
+        "artist": "Harris Jayaraj, Devan Ekambaram, Mark Thomas, Abhishek",
+        "album": "Yennai Arindhaal",
+        "theme": "Intro",
+        "language": "Tamil"
+      }
+    ]
+  },
 
 
 
