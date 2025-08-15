@@ -5092,7 +5092,138 @@
       }
     ]
   },
-
+  {
+    "title":"24",
+    "image":"https://i1.sndcdn.com/artworks-000150844389-xj6thz-t500x500.jpg",
+    "songs":[
+      {
+        "id": "song_0626",
+        "title":"Aararo",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/24-320kbps-MassTamilan.com/Aararo.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000150844389-xj6thz-t500x500.jpg",
+        "artist": "A.R. Rahman, Shakthishree Gopalan",
+        "album": "24",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0627",
+        "title":"Kaalam Yen Kadhali",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/24-320kbps-MassTamilan.com/Kaalam-Yen-Kadhali.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000150844389-xj6thz-t500x500.jpg",
+        "artist": "A.R. Rahman, Benny Dayal, Shashwat Singh, Abhay Jodhpurkar",
+        "album": "24",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0628",
+        "title":"Mei Nigara",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/24-320kbps-MassTamilan.com/Mei-Nigara.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000150844389-xj6thz-t500x500.jpg",
+        "artist": "A.R. Rahman, Sid Sriram, Sanah Moidutty, Jonita Gandhi",
+        "album": "24",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0629",
+        "title":"My Twin Brother",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/24-320kbps-MassTamilan.com/My-Twin-Brother.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000150844389-xj6thz-t500x500.jpg",
+        "artist": "A.R. Rahman, Srinivasa Krishnan, Hriday Gattani",
+        "album": "24",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0630",
+        "title":"Naan Un",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/24-320kbps-MassTamilan.com/Naan-Un.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000150844389-xj6thz-t500x500.jpg",
+        "artist": "A.R. Rahman, Arijit Singh, Chinmayi",
+        "album": "24",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0631",
+        "title":"Punnagaiye",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/24-320kbps-MassTamilan.com/Punnagaiye.mp3",
+        "image": "https://i1.sndcdn.com/artworks-000150844389-xj6thz-t500x500.jpg",
+        "artist": "A.R. Rahman, Haricharan, Shasha Tirupati",
+        "album": "24",
+        "theme": "Love",
+        "language": "Tamil"
+      }
+    ]
+  },
+  {
+    "title":"7 Aum Arivu",
+    "image":"https://upload.wikimedia.org/wikipedia/en/9/9e/7aum_Arivu_%28soundtrack%29.jpg",
+    "songs":[
+      {
+        "id": "song_0632",
+        "title":"Innum Enna Thozha",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/7-Aum-Arivu7aam-Arivu-320kbps-MassTamilan.com/Innum-Enna-Thozha.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/7aum_Arivu_%28soundtrack%29.jpg",
+        "artist": "Harris Jayaraj, Balram, Naresh Iyer & Suchith Suresan",
+        "album": "7 Aum Arivu",
+        "theme": "Boost",
+        "language": "Tamil"
+      },
+      {
+        "id":"song_0633",
+        "title":"Mun Andhi",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/7-Aum-Arivu7aam-Arivu-320kbps-MassTamilan.com/Mun-Andhi.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/7aum_Arivu_%28soundtrack%29.jpg",
+        "artist": "Harris Jayaraj, Karthik, Megha",
+        "album": "7 Aum Arivu",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0634",
+        "title":"Oh Ringa Ringa",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/7-Aum-Arivu7aam-Arivu-320kbps-MassTamilan.com/Oh-Ringa-Ringa.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/7aum_Arivu_%28soundtrack%29.jpg",
+        "artist": "Harris Jayaraj, Roshan, Jerry John, Benny, Suchitra",
+        "album": "7 Aum Arivu",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id":"song_0635",
+        "title":"The Rise of Damo",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/7-Aum-Arivu7aam-Arivu-320kbps-MassTamilan.com/The-Rise-of-Damo.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/7aum_Arivu_%28soundtrack%29.jpg",
+        "artist": "Harris Jayaraj, Hao Wang",
+        "album": "7 Aum Arivu",
+        "theme": "Boost",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0636",
+        "title":"Yamma Yamma",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/7-Aum-Arivu7aam-Arivu-320kbps-MassTamilan.com/Yamma-Yamma.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/7aum_Arivu_%28soundtrack%29.jpg",
+        "artist": "Harris Jayaraj, S. P. Balasubrahmanyam, Swetha Menon",
+        "album": "7 Aum Arivu",
+        "theme": "Breakup",
+        "language": "Tamil"
+      },
+      {
+        "id":"song_0637",
+        "title":"Yellae Lama",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/7-Aum-Arivu7aam-Arivu-320kbps-MassTamilan.com/Yellae-Lama.mp3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/7aum_Arivu_%28soundtrack%29.jpg",
+        "artist": "Harris Jayaraj, Karthik, Shalini, Shruthi Hassan, Vijay Prakash",
+        "album": "7 Aum Arivu",
+        "theme": "Love",
+        "language": "Tamil"
+      }
+    ]
+  },
 
 
 
