@@ -5376,6 +5376,112 @@
       }
     ]
   },
+  {
+    "title":"Vikram Vedha",
+    "image":"https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+    "songs":[
+      {
+        "id": "song_0652",
+        "title":"Ghetto Chase",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Ghetto-Chase-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S., Meghavarshini, Avantika, Monisha",
+        "album": "Vikram Vedha",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0653",
+        "title":"Idhu Emosion",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Idhu-Emosion-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S.",
+        "album": "Vikram Vedha",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0654",
+        "title":"Karuppu Vellai",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Karuppu-Vellai-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S., Sivam",
+        "album": "Vikram Vedha",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0655",
+        "title":"Oru Katha Sollatta",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Oru-Katha-Sollatta-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S., Sethu Thankachan, Kannan M, Ravikumar",
+        "album": "Vikram Vedha",
+        "theme": "Boost",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0656",
+        "title":"Pogatha Yennavittu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Pogatha-Yennavittu-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S., Pradeep Kumar, Neha Venugopal",
+        "album": "Vikram Vedha",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0657",
+        "title":"Sangu Sattham",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Sangu-Sattham-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S., Sethu Thankachan, Kannan M, Ravikumar",
+        "album": "Vikram Vedha",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0658",
+        "title":"Tasakku Tasakku",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Tasakku-Tasakku-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S., Mukesh, M. L. R. Karthikeyan, Guna",
+        "album": "Vikram Vedha",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0659",
+        "title":"Yaanji",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Yaanji-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S., Anirudh Ravichander, Shakthisree Gopalan",
+        "album": "Vikram Vedha",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0660",
+        "title":"Yethu Dharmam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Yethu-Dharmam-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S.",
+        "album": "Vikram Vedha",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0661",
+        "title":"Yethu Nyayam",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_1/main/Vikram-Vedha/Yethu-Nyayam-MassTamilan.com.mp3",
+        "image": "https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist": "Sam C. S.",
+        "album": "Vikram Vedha",
+        "theme": "Vibe",
+        "language": "Tamil"
+      }
+    ]
+  },
 
 
 
