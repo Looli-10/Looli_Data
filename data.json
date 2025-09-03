@@ -5506,6 +5506,16 @@
         "album":"Thalapthi",
         "theme":"Boost",
         "language":"Tamil" 
+      },
+      {
+        "id":"song_0664",
+        "title":"Margazhithan",
+        "url":"https://raw.githubusercontent.com/Looli-10/Looli_old/main/Thalapathi/Margazhithan.mp3",
+        "image":"https://cdn.123telugu.com/content/wp-content/uploads/2024/11/Rajinikanthi.jpg",
+        "artist":"Ilaiyaraaja, Chorus",
+        "album":"Thalapthi",
+        "theme":"Vibe",
+        "language":"Tamil"
       }
     ]
   },
