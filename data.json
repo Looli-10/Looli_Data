@@ -5516,6 +5516,46 @@
         "album":"Thalapthi",
         "theme":"Vibe",
         "language":"Tamil"
+      },
+      {
+       "id":"song_0665",
+        "title":"Putham Puthu Poo",
+        "url":"https://raw.githubusercontent.com/Looli-10/Looli_old/main/Thalapathi/Putham-Puthu-Poo.mp3",
+        "image":"https://cdn.123telugu.com/content/wp-content/uploads/2024/11/Rajinikanthi.jpg",
+        "artist":"Ilaiyaraaja, Yesudas, S. Janakis",
+        "album":"Thalapthi",
+        "theme":"sad",
+        "language":"Tamil" 
+      },
+      {
+       "id":"song_0666",
+        "title":"Rakkama Kaiya Thattu",
+        "url":"https://raw.githubusercontent.com/Looli-10/Looli_old/main/Thalapathi/Rakkama-Kaiya-Thattu.mp3",
+        "image":"https://cdn.123telugu.com/content/wp-content/uploads/2024/11/Rajinikanthi.jpg",
+        "artist":"Ilaiyaraaja, S. P. Balasubrahmanyam, Swarnalatha",
+        "album":"Thalapthi",
+        "theme":"Vibe",
+        "language":"Tamil" 
+      },
+      {
+        "id":"song_0667",
+          "title":"Sundari Kannal",
+          "url":"https://raw.githubusercontent.com/Looli-10/Looli_old/main/Thalapathi/Sundari-Kannal.mp3",
+          "image":"https://cdn.123telugu.com/content/wp-content/uploads/2024/11/Rajinikanthi.jpg",
+          "artist":"Ilaiyaraaja, S. P. Balasubrahmanyam, S. Janaki",
+          "album":"Thalapthi",
+          "theme":"Love",
+          "language":"Tamil"
+      },
+      {
+        "id":"song_0668",
+          "title":"Yamunai Aatrile",
+          "url":"https://raw.githubusercontent.com/Looli-10/Looli_old/main/Thalapathi/Yamunai-Aatrile.mp3",
+          "image":"https://cdn.123telugu.com/content/wp-content/uploads/2024/11/Rajinikanthi.jpg",
+          "artist":"Ilaiyaraaja, Mithaali",
+          "album":"Thalapthi",
+          "theme":"sad",
+          "language":"Tamil"
       }
     ]
   },
