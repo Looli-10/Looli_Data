@@ -5482,6 +5482,23 @@
       }
     ]
   },
+  
+  {
+    "title":"Thalapathi",
+    "image":"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10966740_p_v8_aa.jpg",
+    "songs":[
+      {
+        "id":"song_0662",
+        "title":"Chinna Thayaval",
+        "url":"https://raw.githubusercontent.com/Looli-10/Looli_old/main/Thalapathi/Chinna-Thayaval.mp3",
+        "image":"https://static.toiimg.com/thumb/msid-59384018,width-400,resizemode-4/59384018.jpg",
+        "artist":"Ilaiyaraaja, S. Janaki",
+        "album":"Thalapthi",
+        "theme":"Sad",
+        "language":"Tamil" 
+      }
+    ]
+  },
 
 
 
