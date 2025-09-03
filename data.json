@@ -5496,6 +5496,16 @@
         "album":"Thalapthi",
         "theme":"Sad",
         "language":"Tamil" 
+      },
+      {
+        "id":"song_0663",
+        "title":"Kaattukuyilu",
+        "url":"https://raw.githubusercontent.com/Looli-10/Looli_old/main/Thalapathi/Kaattukuyilu.mp3",
+        "image":"https://cdn.123telugu.com/content/wp-content/uploads/2024/11/Rajinikanthi.jpg",
+        "artist":"Ilaiyaraaja, S. P. Balasubrahmanyam, Yesudas",
+        "album":"Thalapthi",
+        "theme":"Boost",
+        "language":"Tamil" 
       }
     ]
   },
