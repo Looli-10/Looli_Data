@@ -5559,7 +5559,63 @@
       }
     ]
   },
-
+  {
+    "title": "Jhonny",
+    "image": "https://c.saavncdn.com/551/Jhonny-Tamil-1980-20180227-500x500.jpg",
+    "songs": 
+    [
+      {
+        "id": "song_0669",
+        "title": "Aasaiye Kaathule",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_old/main/Jhonny/Aasaiye-Kaathule-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/551/Jhonny-Tamil-1980-20180227-500x500.jpg",
+        "artist": "Ilaiyaraaja, S.P. Sailaja",
+        "album": "Jhonny",
+        "theme": "Vibe",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0670",
+        "title": "En Vaanilay",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_old/main/Jhonny/En-Vaanilay-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/551/Jhonny-Tamil-1980-20180227-500x500.jpg",
+        "artist": "Ilaiyaraaja, Jency",
+        "album": "Jhonny",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0671",
+        "title": "Kaatril Enthan",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_old/main/Jhonny/Kaatril-Enthan-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/551/Jhonny-Tamil-1980-20180227-500x500.jpg",
+        "artist": "Ilaiyaraaja, S.Janaki",
+        "album": "Jhonny",
+        "theme": "sad",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0672",
+        "title": "Oru Iniya Manathu",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_old/main/Jhonny/Oru-Iniya-Manathu-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/551/Jhonny-Tamil-1980-20180227-500x500.jpg",
+        "artist": "Ilaiyaraaja, Jency",
+        "album": "Jhonny",
+        "theme": "Love",
+        "language": "Tamil"
+      },
+      {
+        "id": "song_0673",
+        "title": "Senorita",
+        "url": "https://raw.githubusercontent.com/Looli-10/Looli_old/main/Jhonny/Senorita-MassTamilan.com.mp3",
+        "image": "https://c.saavncdn.com/551/Jhonny-Tamil-1980-20180227-500x500.jpg",
+        "artist": "Ilaiyaraaja, S.P. Balasubrahmany",
+        "album": "Jhonny",
+        "theme": "Vibe",
+        "language": "Tamil"
+      }
+    ]
+  },
 
 
 
